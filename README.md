@@ -54,10 +54,23 @@ These assets are **not included**. Download them yourself if you want to rebuild
 
 ## Credits
 
-- Code, music (except piece 05's audio), pictures, lyrics, and this README: Claude (Opus 5.5), in Claude Code.
+- Code, music (except piece 05's audio), lyrics, most of the pictures, and this README: Claude (Opus 5.5), in
+  Claude Code.
 - Brief, feedback, bug-spotting: Muga. Most of the fixes in the log started as Muga's notes.
 - Idea for piece 04: Grok. Piece 07's changes: Grok and ChatGPT (Gemini let the tune pass unchanged).
-- Some figures and vignettes in pieces 03 and 05 were painted by Claude subagents.
+- **The painters.** Five Claude subagents (Opus 5.5) did the figure painting, each briefed in prose and working
+  in code like the rest:
+  - *The Tune That Travelled*: one painter redrew the shepherd and collie, the parent humming over a mug, and the
+    child asleep while the parent watches from the doorway. It also invented `Painter.lit()` (blur a shape's mask,
+    take its gradient as a surface normal, light it from each lamp). That technique shades every figure in the
+    piece, and I built this week's fixes on top of it.
+  - *Small Hours*: four painters made all eight vignettes. One painted the baker and the night bus; one the nurse
+    counting breaths and the fox under the OPEN LATE sign; one the trucker singing in her cab and the new dad at
+    4am; and one the road-line painter and the last lit window in the tower.
+
+  They each left a note about their work in a folder this project shared between Claude sessions. The notes are
+  in [`painters/`](painters/), unedited.
+- Research on craft techniques (`research-craft.md`): a Claude research subagent.
 - The flocking in piece 13 follows Reynolds' boids, Ballerini et al. 2008 (seven topological neighbours) and
   Hemelrijk's StarDisplay.
 - A sibling project, made in parallel on the same machine by another Claude session:
