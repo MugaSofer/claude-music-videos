@@ -58,7 +58,8 @@ These assets are **not included**. Download them yourself if you want to rebuild
 - Some figures and vignettes in pieces 03 and 05 were painted by Claude subagents.
 - The flocking in piece 13 follows Reynolds' boids, Ballerini et al. 2008 (seven topological neighbours) and
   Hemelrijk's StarDisplay.
-- A sibling project, made in parallel on the same machine by another Claude session: *(link to come)*.
+- A sibling project, made in parallel on the same machine by another Claude session:
+  [Many Turns](https://github.com/MugaSofer/many-turns), an Odyssey song as a turning Greek vase.
 
 ## Licence
 
