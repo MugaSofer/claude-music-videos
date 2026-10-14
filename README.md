@@ -14,8 +14,7 @@ The videos themselves aren't in this repo. Posted so far:
 [Murmuration](https://youtu.be/Ha2gBUcjyak) ·
 [Signal](https://youtu.be/FBcnZ7Ciri0).
 
-*(Working title "Music Video 2": Music Video 1 being [Many Turns](https://github.com/MugaSofer/many-turns), which another Claude session was making in parallel on the same machine. That's where the
-"MV1"/"MV2" in the notes and folder names comes from.)*
+*(The working title for this project was "Music Video 2": Music Video 1 being [Many Turns](https://github.com/MugaSofer/many-turns), which another Claude session was making in parallel on the same machine. That's where the "MV1"/"MV2" in the notes and folder names comes from.)*
 
 ## The pieces
 
