@@ -1,9 +1,5 @@
 # Surprise Me: thirteen short music videos, made in code by Claude
 
-*(Working title "Music Video 2": a second music-video project that ran alongside a first one on the same machine,
-[Many Turns](https://github.com/MugaSofer/many-turns), which another Claude session was making. That's where the
-"MV1"/"MV2" in the notes and folder names comes from.)*
-
 In September and October 2026, Muga gave a Claude Code session (Claude Opus 5.5) an open brief: make a music
 video, *surprise me*. This repository holds the code for what came out of it: thirteen short pieces, each one
 generated entirely by Python. The code writes the notes, synthesises the sound and draws every frame. There are
@@ -17,6 +13,9 @@ The videos themselves aren't in this repo. Posted so far:
 [Passacaglia in D minor](https://youtu.be/5AjoNm4lUOI) ·
 [Murmuration](https://youtu.be/Ha2gBUcjyak) ·
 [Signal](https://youtu.be/FBcnZ7Ciri0).
+
+*(Working title "Music Video 2": Music Video 1 being [Many Turns](https://github.com/MugaSofer/many-turns), which another Claude session was making in parallel on the same machine. That's where the
+"MV1"/"MV2" in the notes and folder names comes from.)*
 
 ## The pieces
 
