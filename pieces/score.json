@@ -1,0 +1,12117 @@
+{
+"bpm": 120,
+"unit": 0.125,
+"total": 165.0,
+"messages": [
+{
+"msg": 0,
+"sender": "light",
+"text": "WHO IS OUT THERE",
+"t0": 4.0,
+"t1": 19.75,
+"chord": [
+45,
+57,
+60,
+64
+],
+"letters": [
+{
+"ch": "W",
+"t_done": 5.125,
+"t0": 4.0,
+"word": 0
+},
+{
+"ch": "H",
+"t_done": 6.375,
+"t0": 5.5,
+"word": 0
+},
+{
+"ch": "O",
+"t_done": 8.125,
+"t0": 6.75,
+"word": 0
+},
+{
+"ch": "I",
+"t_done": 9.375,
+"t0": 9.0,
+"word": 1
+},
+{
+"ch": "S",
+"t_done": 10.375,
+"t0": 9.75,
+"word": 1
+},
+{
+"ch": "O",
+"t_done": 12.625,
+"t0": 11.25,
+"word": 2
+},
+{
+"ch": "U",
+"t_done": 13.875,
+"t0": 13.0,
+"word": 2
+},
+{
+"ch": "T",
+"t_done": 14.625,
+"t0": 14.25,
+"word": 2
+},
+{
+"ch": "T",
+"t_done": 15.875,
+"t0": 15.5,
+"word": 3
+},
+{
+"ch": "H",
+"t_done": 17.125,
+"t0": 16.25,
+"word": 3
+},
+{
+"ch": "E",
+"t_done": 17.625,
+"t0": 17.5,
+"word": 3
+},
+{
+"ch": "R",
+"t_done": 18.875,
+"t0": 18.0,
+"word": 3
+},
+{
+"ch": "E",
+"t_done": 19.375,
+"t0": 19.25,
+"word": 3
+}
+]
+},
+{
+"msg": 1,
+"sender": "boat",
+"text": "A SMALL BOAT AND A TIRED CREW",
+"t0": 22.0,
+"t1": 51.0,
+"chord": [
+41,
+53,
+57,
+60
+],
+"letters": [
+{
+"ch": "A",
+"t_done": 22.625,
+"t0": 22.0,
+"word": 0
+},
+{
+"ch": "S",
+"t_done": 24.125,
+"t0": 23.5,
+"word": 1
+},
+{
+"ch": "M",
+"t_done": 25.375,
+"t0": 24.5,
+"word": 1
+},
+{
+"ch": "A",
+"t_done": 26.375,
+"t0": 25.75,
+"word": 1
+},
+{
+"ch": "L",
+"t_done": 27.875,
+"t0": 26.75,
+"word": 1
+},
+{
+"ch": "L",
+"t_done": 29.375,
+"t0": 28.25,
+"word": 1
+},
+{
+"ch": "B",
+"t_done": 31.375,
+"t0": 30.25,
+"word": 2
+},
+{
+"ch": "O",
+"t_done": 33.125,
+"t0": 31.75,
+"word": 2
+},
+{
+"ch": "A",
+"t_done": 34.125,
+"t0": 33.5,
+"word": 2
+},
+{
+"ch": "T",
+"t_done": 34.875,
+"t0": 34.5,
+"word": 2
+},
+{
+"ch": "A",
+"t_done": 36.375,
+"t0": 35.75,
+"word": 3
+},
+{
+"ch": "N",
+"t_done": 37.375,
+"t0": 36.75,
+"word": 3
+},
+{
+"ch": "D",
+"t_done": 38.625,
+"t0": 37.75,
+"word": 3
+},
+{
+"ch": "A",
+"t_done": 40.125,
+"t0": 39.5,
+"word": 4
+},
+{
+"ch": "T",
+"t_done": 41.375,
+"t0": 41.0,
+"word": 5
+},
+{
+"ch": "I",
+"t_done": 42.125,
+"t0": 41.75,
+"word": 5
+},
+{
+"ch": "R",
+"t_done": 43.375,
+"t0": 42.5,
+"word": 5
+},
+{
+"ch": "E",
+"t_done": 43.875,
+"t0": 43.75,
+"word": 5
+},
+{
+"ch": "D",
+"t_done": 45.125,
+"t0": 44.25,
+"word": 5
+},
+{
+"ch": "C",
+"t_done": 47.375,
+"t0": 46.0,
+"word": 6
+},
+{
+"ch": "R",
+"t_done": 48.625,
+"t0": 47.75,
+"word": 6
+},
+{
+"ch": "E",
+"t_done": 49.125,
+"t0": 49.0,
+"word": 6
+},
+{
+"ch": "W",
+"t_done": 50.625,
+"t0": 49.5,
+"word": 6
+}
+]
+},
+{
+"msg": 2,
+"sender": "light",
+"text": "THE HARBOUR IS THIS WAY",
+"t0": 54.0,
+"t1": 77.75,
+"chord": [
+45,
+57,
+60,
+64
+],
+"letters": [
+{
+"ch": "T",
+"t_done": 54.375,
+"t0": 54.0,
+"word": 0
+},
+{
+"ch": "H",
+"t_done": 55.625,
+"t0": 54.75,
+"word": 0
+},
+{
+"ch": "E",
+"t_done": 56.125,
+"t0": 56.0,
+"word": 0
+},
+{
+"ch": "H",
+"t_done": 57.875,
+"t0": 57.0,
+"word": 1
+},
+{
+"ch": "A",
+"t_done": 58.875,
+"t0": 58.25,
+"word": 1
+},
+{
+"ch": "R",
+"t_done": 60.125,
+"t0": 59.25,
+"word": 1
+},
+{
+"ch": "B",
+"t_done": 61.625,
+"t0": 60.5,
+"word": 1
+},
+{
+"ch": "O",
+"t_done": 63.375,
+"t0": 62.0,
+"word": 1
+},
+{
+"ch": "U",
+"t_done": 64.625,
+"t0": 63.75,
+"word": 1
+},
+{
+"ch": "R",
+"t_done": 65.875,
+"t0": 65.0,
+"word": 1
+},
+{
+"ch": "I",
+"t_done": 67.125,
+"t0": 66.75,
+"word": 2
+},
+{
+"ch": "S",
+"t_done": 68.125,
+"t0": 67.5,
+"word": 2
+},
+{
+"ch": "T",
+"t_done": 69.375,
+"t0": 69.0,
+"word": 3
+},
+{
+"ch": "H",
+"t_done": 70.625,
+"t0": 69.75,
+"word": 3
+},
+{
+"ch": "I",
+"t_done": 71.375,
+"t0": 71.0,
+"word": 3
+},
+{
+"ch": "S",
+"t_done": 72.375,
+"t0": 71.75,
+"word": 3
+},
+{
+"ch": "W",
+"t_done": 74.375,
+"t0": 73.25,
+"word": 4
+},
+{
+"ch": "A",
+"t_done": 75.375,
+"t0": 74.75,
+"word": 4
+},
+{
+"ch": "Y",
+"t_done": 77.375,
+"t0": 75.75,
+"word": 4
+}
+]
+},
+{
+"msg": 3,
+"sender": "boat",
+"text": "WE SEE YOUR LIGHT",
+"t0": 80.0,
+"t1": 97.5,
+"chord": [
+48,
+48,
+52,
+55
+],
+"letters": [
+{
+"ch": "W",
+"t_done": 81.125,
+"t0": 80.0,
+"word": 0
+},
+{
+"ch": "E",
+"t_done": 81.625,
+"t0": 81.5,
+"word": 0
+},
+{
+"ch": "S",
+"t_done": 83.125,
+"t0": 82.5,
+"word": 1
+},
+{
+"ch": "E",
+"t_done": 83.625,
+"t0": 83.5,
+"word": 1
+},
+{
+"ch": "E",
+"t_done": 84.125,
+"t0": 84.0,
+"word": 1
+},
+{
+"ch": "Y",
+"t_done": 86.625,
+"t0": 85.0,
+"word": 2
+},
+{
+"ch": "O",
+"t_done": 88.375,
+"t0": 87.0,
+"word": 2
+},
+{
+"ch": "U",
+"t_done": 89.625,
+"t0": 88.75,
+"word": 2
+},
+{
+"ch": "R",
+"t_done": 90.875,
+"t0": 90.0,
+"word": 2
+},
+{
+"ch": "L",
+"t_done": 92.875,
+"t0": 91.75,
+"word": 3
+},
+{
+"ch": "I",
+"t_done": 93.625,
+"t0": 93.25,
+"word": 3
+},
+{
+"ch": "G",
+"t_done": 95.125,
+"t0": 94.0,
+"word": 3
+},
+{
+"ch": "H",
+"t_done": 96.375,
+"t0": 95.5,
+"word": 3
+},
+{
+"ch": "T",
+"t_done": 97.125,
+"t0": 96.75,
+"word": 3
+}
+]
+},
+{
+"msg": 4,
+"sender": "light",
+"text": "KEEP IT ON YOUR LEFT",
+"t0": 100.0,
+"t1": 121.0,
+"chord": [
+38,
+50,
+53,
+57
+],
+"letters": [
+{
+"ch": "K",
+"t_done": 101.125,
+"t0": 100.0,
+"word": 0
+},
+{
+"ch": "E",
+"t_done": 101.625,
+"t0": 101.5,
+"word": 0
+},
+{
+"ch": "E",
+"t_done": 102.125,
+"t0": 102.0,
+"word": 0
+},
+{
+"ch": "P",
+"t_done": 103.875,
+"t0": 102.5,
+"word": 0
+},
+{
+"ch": "I",
+"t_done": 105.125,
+"t0": 104.75,
+"word": 1
+},
+{
+"ch": "T",
+"t_done": 105.875,
+"t0": 105.5,
+"word": 1
+},
+{
+"ch": "O",
+"t_done": 108.125,
+"t0": 106.75,
+"word": 2
+},
+{
+"ch": "N",
+"t_done": 109.125,
+"t0": 108.5,
+"word": 2
+},
+{
+"ch": "Y",
+"t_done": 111.625,
+"t0": 110.0,
+"word": 3
+},
+{
+"ch": "O",
+"t_done": 113.375,
+"t0": 112.0,
+"word": 3
+},
+{
+"ch": "U",
+"t_done": 114.625,
+"t0": 113.75,
+"word": 3
+},
+{
+"ch": "R",
+"t_done": 115.875,
+"t0": 115.0,
+"word": 3
+},
+{
+"ch": "L",
+"t_done": 117.875,
+"t0": 116.75,
+"word": 4
+},
+{
+"ch": "E",
+"t_done": 118.375,
+"t0": 118.25,
+"word": 4
+},
+{
+"ch": "F",
+"t_done": 119.875,
+"t0": 118.75,
+"word": 4
+},
+{
+"ch": "T",
+"t_done": 120.625,
+"t0": 120.25,
+"word": 4
+}
+]
+},
+{
+"msg": 5,
+"sender": "boat",
+"text": "THANK YOU",
+"t0": 124.0,
+"t1": 135.0,
+"chord": [
+41,
+53,
+57,
+60
+],
+"letters": [
+{
+"ch": "T",
+"t_done": 124.375,
+"t0": 124.0,
+"word": 0
+},
+{
+"ch": "H",
+"t_done": 125.625,
+"t0": 124.75,
+"word": 0
+},
+{
+"ch": "A",
+"t_done": 126.625,
+"t0": 126.0,
+"word": 0
+},
+{
+"ch": "N",
+"t_done": 127.625,
+"t0": 127.0,
+"word": 0
+},
+{
+"ch": "K",
+"t_done": 129.125,
+"t0": 128.0,
+"word": 0
+},
+{
+"ch": "Y",
+"t_done": 131.625,
+"t0": 130.0,
+"word": 1
+},
+{
+"ch": "O",
+"t_done": 133.375,
+"t0": 132.0,
+"word": 1
+},
+{
+"ch": "U",
+"t_done": 134.625,
+"t0": 133.75,
+"word": 1
+}
+]
+},
+{
+"msg": 6,
+"sender": "both",
+"text": "GOODNIGHT",
+"t0": 140.0,
+"t1": 151.5,
+"chord": [
+41,
+53,
+57,
+60
+],
+"letters": [
+{
+"ch": "G",
+"t_done": 141.125,
+"t0": 140.0,
+"word": 0
+},
+{
+"ch": "O",
+"t_done": 142.875,
+"t0": 141.5,
+"word": 0
+},
+{
+"ch": "O",
+"t_done": 144.625,
+"t0": 143.25,
+"word": 0
+},
+{
+"ch": "D",
+"t_done": 145.875,
+"t0": 145.0,
+"word": 0
+},
+{
+"ch": "N",
+"t_done": 146.875,
+"t0": 146.25,
+"word": 0
+},
+{
+"ch": "I",
+"t_done": 147.625,
+"t0": 147.25,
+"word": 0
+},
+{
+"ch": "G",
+"t_done": 149.125,
+"t0": 148.0,
+"word": 0
+},
+{
+"ch": "H",
+"t_done": 150.375,
+"t0": 149.5,
+"word": 0
+},
+{
+"ch": "T",
+"t_done": 151.125,
+"t0": 150.75,
+"word": 0
+}
+]
+}
+],
+"events": [
+{
+"t": 4.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 0,
+"ch": "W",
+"sym": ".",
+"midi": 52
+},
+{
+"t": 4.25,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 0,
+"ch": "W",
+"sym": "-",
+"midi": 52
+},
+{
+"t": 4.75,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 0,
+"ch": "W",
+"sym": "-",
+"midi": 52
+},
+{
+"t": 5.5,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 0,
+"ch": "H",
+"sym": ".",
+"midi": 57
+},
+{
+"t": 5.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 0,
+"ch": "H",
+"sym": ".",
+"midi": 57
+},
+{
+"t": 6.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 0,
+"ch": "H",
+"sym": ".",
+"midi": 57
+},
+{
+"t": 6.25,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 0,
+"ch": "H",
+"sym": ".",
+"midi": 57
+},
+{
+"t": 6.75,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 0,
+"ch": "O",
+"sym": "-",
+"midi": 57
+},
+{
+"t": 7.25,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 0,
+"ch": "O",
+"sym": "-",
+"midi": 57
+},
+{
+"t": 7.75,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 0,
+"ch": "O",
+"sym": "-",
+"midi": 57
+},
+{
+"t": 9.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 0,
+"ch": "I",
+"sym": ".",
+"midi": 60
+},
+{
+"t": 9.25,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 0,
+"ch": "I",
+"sym": ".",
+"midi": 60
+},
+{
+"t": 9.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 0,
+"ch": "S",
+"sym": ".",
+"midi": 60
+},
+{
+"t": 10.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 0,
+"ch": "S",
+"sym": ".",
+"midi": 60
+},
+{
+"t": 10.25,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 0,
+"ch": "S",
+"sym": ".",
+"midi": 60
+},
+{
+"t": 11.25,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 0,
+"ch": "O",
+"sym": "-",
+"midi": 55
+},
+{
+"t": 11.75,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 0,
+"ch": "O",
+"sym": "-",
+"midi": 55
+},
+{
+"t": 12.25,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 0,
+"ch": "O",
+"sym": "-",
+"midi": 55
+},
+{
+"t": 13.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 0,
+"ch": "U",
+"sym": ".",
+"midi": 57
+},
+{
+"t": 13.25,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 0,
+"ch": "U",
+"sym": ".",
+"midi": 57
+},
+{
+"t": 13.5,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 0,
+"ch": "U",
+"sym": "-",
+"midi": 57
+},
+{
+"t": 14.25,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 0,
+"ch": "T",
+"sym": "-",
+"midi": 57
+},
+{
+"t": 15.5,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 0,
+"ch": "T",
+"sym": "-",
+"midi": 57
+},
+{
+"t": 16.25,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 0,
+"ch": "H",
+"sym": ".",
+"midi": 60
+},
+{
+"t": 16.5,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 0,
+"ch": "H",
+"sym": ".",
+"midi": 60
+},
+{
+"t": 16.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 0,
+"ch": "H",
+"sym": ".",
+"midi": 60
+},
+{
+"t": 17.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 0,
+"ch": "H",
+"sym": ".",
+"midi": 60
+},
+{
+"t": 17.5,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 0,
+"ch": "E",
+"sym": ".",
+"midi": 60
+},
+{
+"t": 18.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 0,
+"ch": "R",
+"sym": ".",
+"midi": 59
+},
+{
+"t": 18.25,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 0,
+"ch": "R",
+"sym": "-",
+"midi": 59
+},
+{
+"t": 18.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 0,
+"ch": "R",
+"sym": ".",
+"midi": 59
+},
+{
+"t": 19.25,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 0,
+"ch": "E",
+"sym": ".",
+"midi": 62
+},
+{
+"t": 22.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "A",
+"sym": ".",
+"midi": 72
+},
+{
+"t": 22.25,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "A",
+"sym": "-",
+"midi": 72
+},
+{
+"t": 23.5,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "S",
+"sym": ".",
+"midi": 72
+},
+{
+"t": 23.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "S",
+"sym": ".",
+"midi": 72
+},
+{
+"t": 24.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "S",
+"sym": ".",
+"midi": 72
+},
+{
+"t": 24.5,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "M",
+"sym": "-",
+"midi": 76
+},
+{
+"t": 25.0,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "M",
+"sym": "-",
+"midi": 76
+},
+{
+"t": 25.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "A",
+"sym": ".",
+"midi": 76
+},
+{
+"t": 26.0,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "A",
+"sym": "-",
+"midi": 76
+},
+{
+"t": 26.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "L",
+"sym": ".",
+"midi": 74
+},
+{
+"t": 27.0,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "L",
+"sym": "-",
+"midi": 74
+},
+{
+"t": 27.5,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "L",
+"sym": ".",
+"midi": 74
+},
+{
+"t": 27.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "L",
+"sym": ".",
+"midi": 74
+},
+{
+"t": 28.25,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "L",
+"sym": ".",
+"midi": 72
+},
+{
+"t": 28.5,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "L",
+"sym": "-",
+"midi": 72
+},
+{
+"t": 29.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "L",
+"sym": ".",
+"midi": 72
+},
+{
+"t": 29.25,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "L",
+"sym": ".",
+"midi": 72
+},
+{
+"t": 30.25,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "B",
+"sym": "-",
+"midi": 72
+},
+{
+"t": 30.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "B",
+"sym": ".",
+"midi": 72
+},
+{
+"t": 31.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "B",
+"sym": ".",
+"midi": 72
+},
+{
+"t": 31.25,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "B",
+"sym": ".",
+"midi": 72
+},
+{
+"t": 31.75,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "O",
+"sym": "-",
+"midi": 72
+},
+{
+"t": 32.25,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "O",
+"sym": "-",
+"midi": 72
+},
+{
+"t": 32.75,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "O",
+"sym": "-",
+"midi": 72
+},
+{
+"t": 33.5,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "A",
+"sym": ".",
+"midi": 72
+},
+{
+"t": 33.75,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "A",
+"sym": "-",
+"midi": 72
+},
+{
+"t": 34.5,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "T",
+"sym": "-",
+"midi": 71
+},
+{
+"t": 35.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "A",
+"sym": ".",
+"midi": 71
+},
+{
+"t": 36.0,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "A",
+"sym": "-",
+"midi": 71
+},
+{
+"t": 36.75,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "N",
+"sym": "-",
+"midi": 76
+},
+{
+"t": 37.25,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "N",
+"sym": ".",
+"midi": 76
+},
+{
+"t": 37.75,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "D",
+"sym": "-",
+"midi": 76
+},
+{
+"t": 38.25,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "D",
+"sym": ".",
+"midi": 76
+},
+{
+"t": 38.5,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "D",
+"sym": ".",
+"midi": 76
+},
+{
+"t": 39.5,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "A",
+"sym": ".",
+"midi": 77
+},
+{
+"t": 39.75,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "A",
+"sym": "-",
+"midi": 77
+},
+{
+"t": 41.0,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "T",
+"sym": "-",
+"midi": 72
+},
+{
+"t": 41.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "I",
+"sym": ".",
+"midi": 76
+},
+{
+"t": 42.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "I",
+"sym": ".",
+"midi": 76
+},
+{
+"t": 42.5,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "R",
+"sym": ".",
+"midi": 74
+},
+{
+"t": 42.75,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "R",
+"sym": "-",
+"midi": 74
+},
+{
+"t": 43.25,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "R",
+"sym": ".",
+"midi": 74
+},
+{
+"t": 43.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "E",
+"sym": ".",
+"midi": 74
+},
+{
+"t": 44.25,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "D",
+"sym": "-",
+"midi": 72
+},
+{
+"t": 44.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "D",
+"sym": ".",
+"midi": 72
+},
+{
+"t": 45.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "D",
+"sym": ".",
+"midi": 72
+},
+{
+"t": 46.0,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "C",
+"sym": "-",
+"midi": 72
+},
+{
+"t": 46.5,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "C",
+"sym": ".",
+"midi": 72
+},
+{
+"t": 46.75,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "C",
+"sym": "-",
+"midi": 72
+},
+{
+"t": 47.25,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "C",
+"sym": ".",
+"midi": 72
+},
+{
+"t": 47.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "R",
+"sym": ".",
+"midi": 72
+},
+{
+"t": 48.0,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "R",
+"sym": "-",
+"midi": 72
+},
+{
+"t": 48.5,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "R",
+"sym": ".",
+"midi": 72
+},
+{
+"t": 49.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "E",
+"sym": ".",
+"midi": 72
+},
+{
+"t": 49.5,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "W",
+"sym": ".",
+"midi": 67
+},
+{
+"t": 49.75,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "W",
+"sym": "-",
+"midi": 67
+},
+{
+"t": 50.25,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "W",
+"sym": "-",
+"midi": 67
+},
+{
+"t": 54.0,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "T",
+"sym": "-",
+"midi": 57
+},
+{
+"t": 54.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "H",
+"sym": ".",
+"midi": 57
+},
+{
+"t": 55.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "H",
+"sym": ".",
+"midi": 57
+},
+{
+"t": 55.25,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "H",
+"sym": ".",
+"midi": 57
+},
+{
+"t": 55.5,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "H",
+"sym": ".",
+"midi": 57
+},
+{
+"t": 56.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "E",
+"sym": ".",
+"midi": 57
+},
+{
+"t": 57.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "H",
+"sym": ".",
+"midi": 57
+},
+{
+"t": 57.25,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "H",
+"sym": ".",
+"midi": 57
+},
+{
+"t": 57.5,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "H",
+"sym": ".",
+"midi": 57
+},
+{
+"t": 57.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "H",
+"sym": ".",
+"midi": 57
+},
+{
+"t": 58.25,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "A",
+"sym": ".",
+"midi": 60
+},
+{
+"t": 58.5,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "A",
+"sym": "-",
+"midi": 60
+},
+{
+"t": 59.25,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "R",
+"sym": ".",
+"midi": 60
+},
+{
+"t": 59.5,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "R",
+"sym": "-",
+"midi": 60
+},
+{
+"t": 60.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "R",
+"sym": ".",
+"midi": 60
+},
+{
+"t": 60.5,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "B",
+"sym": "-",
+"midi": 62
+},
+{
+"t": 61.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "B",
+"sym": ".",
+"midi": 62
+},
+{
+"t": 61.25,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "B",
+"sym": ".",
+"midi": 62
+},
+{
+"t": 61.5,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "B",
+"sym": ".",
+"midi": 62
+},
+{
+"t": 62.0,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "O",
+"sym": "-",
+"midi": 60
+},
+{
+"t": 62.5,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "O",
+"sym": "-",
+"midi": 60
+},
+{
+"t": 63.0,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "O",
+"sym": "-",
+"midi": 60
+},
+{
+"t": 63.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "U",
+"sym": ".",
+"midi": 60
+},
+{
+"t": 64.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "U",
+"sym": ".",
+"midi": 60
+},
+{
+"t": 64.25,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "U",
+"sym": "-",
+"midi": 60
+},
+{
+"t": 65.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "R",
+"sym": ".",
+"midi": 57
+},
+{
+"t": 65.25,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "R",
+"sym": "-",
+"midi": 57
+},
+{
+"t": 65.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "R",
+"sym": ".",
+"midi": 57
+},
+{
+"t": 66.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "I",
+"sym": ".",
+"midi": 55
+},
+{
+"t": 67.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "I",
+"sym": ".",
+"midi": 55
+},
+{
+"t": 67.5,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "S",
+"sym": ".",
+"midi": 55
+},
+{
+"t": 67.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "S",
+"sym": ".",
+"midi": 55
+},
+{
+"t": 68.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "S",
+"sym": ".",
+"midi": 55
+},
+{
+"t": 69.0,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "T",
+"sym": "-",
+"midi": 55
+},
+{
+"t": 69.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "H",
+"sym": ".",
+"midi": 62
+},
+{
+"t": 70.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "H",
+"sym": ".",
+"midi": 62
+},
+{
+"t": 70.25,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "H",
+"sym": ".",
+"midi": 62
+},
+{
+"t": 70.5,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "H",
+"sym": ".",
+"midi": 62
+},
+{
+"t": 71.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "I",
+"sym": ".",
+"midi": 60
+},
+{
+"t": 71.25,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "I",
+"sym": ".",
+"midi": 60
+},
+{
+"t": 71.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "S",
+"sym": ".",
+"midi": 57
+},
+{
+"t": 72.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "S",
+"sym": ".",
+"midi": 57
+},
+{
+"t": 72.25,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "S",
+"sym": ".",
+"midi": 57
+},
+{
+"t": 73.25,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "W",
+"sym": ".",
+"midi": 57
+},
+{
+"t": 73.5,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "W",
+"sym": "-",
+"midi": 57
+},
+{
+"t": 74.0,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "W",
+"sym": "-",
+"midi": 57
+},
+{
+"t": 74.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "A",
+"sym": ".",
+"midi": 60
+},
+{
+"t": 75.0,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "A",
+"sym": "-",
+"midi": 60
+},
+{
+"t": 75.75,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "Y",
+"sym": "-",
+"midi": 55
+},
+{
+"t": 76.25,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "Y",
+"sym": ".",
+"midi": 55
+},
+{
+"t": 76.5,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "Y",
+"sym": "-",
+"midi": 55
+},
+{
+"t": 77.0,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "Y",
+"sym": "-",
+"midi": 55
+},
+{
+"t": 80.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 3,
+"ch": "W",
+"sym": ".",
+"midi": 76
+},
+{
+"t": 80.25,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 3,
+"ch": "W",
+"sym": "-",
+"midi": 76
+},
+{
+"t": 80.75,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 3,
+"ch": "W",
+"sym": "-",
+"midi": 76
+},
+{
+"t": 81.5,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 3,
+"ch": "E",
+"sym": ".",
+"midi": 76
+},
+{
+"t": 82.5,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 3,
+"ch": "S",
+"sym": ".",
+"midi": 74
+},
+{
+"t": 82.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 3,
+"ch": "S",
+"sym": ".",
+"midi": 74
+},
+{
+"t": 83.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 3,
+"ch": "S",
+"sym": ".",
+"midi": 74
+},
+{
+"t": 83.5,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 3,
+"ch": "E",
+"sym": ".",
+"midi": 79
+},
+{
+"t": 84.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 3,
+"ch": "E",
+"sym": ".",
+"midi": 76
+},
+{
+"t": 85.0,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 3,
+"ch": "Y",
+"sym": "-",
+"midi": 76
+},
+{
+"t": 85.5,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 3,
+"ch": "Y",
+"sym": ".",
+"midi": 76
+},
+{
+"t": 85.75,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 3,
+"ch": "Y",
+"sym": "-",
+"midi": 76
+},
+{
+"t": 86.25,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 3,
+"ch": "Y",
+"sym": "-",
+"midi": 76
+},
+{
+"t": 87.0,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 3,
+"ch": "O",
+"sym": "-",
+"midi": 77
+},
+{
+"t": 87.5,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 3,
+"ch": "O",
+"sym": "-",
+"midi": 77
+},
+{
+"t": 88.0,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 3,
+"ch": "O",
+"sym": "-",
+"midi": 77
+},
+{
+"t": 88.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 3,
+"ch": "U",
+"sym": ".",
+"midi": 76
+},
+{
+"t": 89.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 3,
+"ch": "U",
+"sym": ".",
+"midi": 76
+},
+{
+"t": 89.25,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 3,
+"ch": "U",
+"sym": "-",
+"midi": 76
+},
+{
+"t": 90.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 3,
+"ch": "R",
+"sym": ".",
+"midi": 74
+},
+{
+"t": 90.25,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 3,
+"ch": "R",
+"sym": "-",
+"midi": 74
+},
+{
+"t": 90.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 3,
+"ch": "R",
+"sym": ".",
+"midi": 74
+},
+{
+"t": 91.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 3,
+"ch": "L",
+"sym": ".",
+"midi": 74
+},
+{
+"t": 92.0,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 3,
+"ch": "L",
+"sym": "-",
+"midi": 74
+},
+{
+"t": 92.5,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 3,
+"ch": "L",
+"sym": ".",
+"midi": 74
+},
+{
+"t": 92.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 3,
+"ch": "L",
+"sym": ".",
+"midi": 74
+},
+{
+"t": 93.25,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 3,
+"ch": "I",
+"sym": ".",
+"midi": 81
+},
+{
+"t": 93.5,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 3,
+"ch": "I",
+"sym": ".",
+"midi": 81
+},
+{
+"t": 94.0,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 3,
+"ch": "G",
+"sym": "-",
+"midi": 81
+},
+{
+"t": 94.5,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 3,
+"ch": "G",
+"sym": "-",
+"midi": 81
+},
+{
+"t": 95.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 3,
+"ch": "G",
+"sym": ".",
+"midi": 81
+},
+{
+"t": 95.5,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 3,
+"ch": "H",
+"sym": ".",
+"midi": 81
+},
+{
+"t": 95.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 3,
+"ch": "H",
+"sym": ".",
+"midi": 81
+},
+{
+"t": 96.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 3,
+"ch": "H",
+"sym": ".",
+"midi": 81
+},
+{
+"t": 96.25,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 3,
+"ch": "H",
+"sym": ".",
+"midi": 81
+},
+{
+"t": 96.75,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 3,
+"ch": "T",
+"sym": "-",
+"midi": 79
+},
+{
+"t": 100.0,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "K",
+"sym": "-",
+"midi": 57
+},
+{
+"t": 100.5,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "K",
+"sym": ".",
+"midi": 57
+},
+{
+"t": 100.75,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "K",
+"sym": "-",
+"midi": 57
+},
+{
+"t": 101.5,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "E",
+"sym": ".",
+"midi": 57
+},
+{
+"t": 102.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "E",
+"sym": ".",
+"midi": 57
+},
+{
+"t": 102.5,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "P",
+"sym": ".",
+"midi": 57
+},
+{
+"t": 102.75,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "P",
+"sym": "-",
+"midi": 57
+},
+{
+"t": 103.25,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "P",
+"sym": "-",
+"midi": 57
+},
+{
+"t": 103.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "P",
+"sym": ".",
+"midi": 57
+},
+{
+"t": 104.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "I",
+"sym": ".",
+"midi": 60
+},
+{
+"t": 105.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "I",
+"sym": ".",
+"midi": 60
+},
+{
+"t": 105.5,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "T",
+"sym": "-",
+"midi": 60
+},
+{
+"t": 106.75,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "O",
+"sym": "-",
+"midi": 59
+},
+{
+"t": 107.25,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "O",
+"sym": "-",
+"midi": 59
+},
+{
+"t": 107.75,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "O",
+"sym": "-",
+"midi": 59
+},
+{
+"t": 108.5,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "N",
+"sym": "-",
+"midi": 57
+},
+{
+"t": 109.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "N",
+"sym": ".",
+"midi": 57
+},
+{
+"t": 110.0,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "Y",
+"sym": "-",
+"midi": 57
+},
+{
+"t": 110.5,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "Y",
+"sym": ".",
+"midi": 57
+},
+{
+"t": 110.75,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "Y",
+"sym": "-",
+"midi": 57
+},
+{
+"t": 111.25,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "Y",
+"sym": "-",
+"midi": 57
+},
+{
+"t": 112.0,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "O",
+"sym": "-",
+"midi": 60
+},
+{
+"t": 112.5,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "O",
+"sym": "-",
+"midi": 60
+},
+{
+"t": 113.0,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "O",
+"sym": "-",
+"midi": 60
+},
+{
+"t": 113.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "U",
+"sym": ".",
+"midi": 60
+},
+{
+"t": 114.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "U",
+"sym": ".",
+"midi": 60
+},
+{
+"t": 114.25,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "U",
+"sym": "-",
+"midi": 60
+},
+{
+"t": 115.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "R",
+"sym": ".",
+"midi": 59
+},
+{
+"t": 115.25,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "R",
+"sym": "-",
+"midi": 59
+},
+{
+"t": 115.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "R",
+"sym": ".",
+"midi": 59
+},
+{
+"t": 116.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "L",
+"sym": ".",
+"midi": 57
+},
+{
+"t": 117.0,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "L",
+"sym": "-",
+"midi": 57
+},
+{
+"t": 117.5,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "L",
+"sym": ".",
+"midi": 57
+},
+{
+"t": 117.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "L",
+"sym": ".",
+"midi": 57
+},
+{
+"t": 118.25,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "E",
+"sym": ".",
+"midi": 57
+},
+{
+"t": 118.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "F",
+"sym": ".",
+"midi": 57
+},
+{
+"t": 119.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "F",
+"sym": ".",
+"midi": 57
+},
+{
+"t": 119.25,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "F",
+"sym": "-",
+"midi": 57
+},
+{
+"t": 119.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "F",
+"sym": ".",
+"midi": 57
+},
+{
+"t": 120.25,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "T",
+"sym": "-",
+"midi": 53
+},
+{
+"t": 124.0,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 5,
+"ch": "T",
+"sym": "-",
+"midi": 72
+},
+{
+"t": 124.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 5,
+"ch": "H",
+"sym": ".",
+"midi": 72
+},
+{
+"t": 125.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 5,
+"ch": "H",
+"sym": ".",
+"midi": 72
+},
+{
+"t": 125.25,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 5,
+"ch": "H",
+"sym": ".",
+"midi": 72
+},
+{
+"t": 125.5,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 5,
+"ch": "H",
+"sym": ".",
+"midi": 72
+},
+{
+"t": 126.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 5,
+"ch": "A",
+"sym": ".",
+"midi": 74
+},
+{
+"t": 126.25,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 5,
+"ch": "A",
+"sym": "-",
+"midi": 74
+},
+{
+"t": 127.0,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 5,
+"ch": "N",
+"sym": "-",
+"midi": 74
+},
+{
+"t": 127.5,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 5,
+"ch": "N",
+"sym": ".",
+"midi": 74
+},
+{
+"t": 128.0,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 5,
+"ch": "K",
+"sym": "-",
+"midi": 72
+},
+{
+"t": 128.5,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 5,
+"ch": "K",
+"sym": ".",
+"midi": 72
+},
+{
+"t": 128.75,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 5,
+"ch": "K",
+"sym": "-",
+"midi": 72
+},
+{
+"t": 130.0,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 5,
+"ch": "Y",
+"sym": "-",
+"midi": 74
+},
+{
+"t": 130.5,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 5,
+"ch": "Y",
+"sym": ".",
+"midi": 74
+},
+{
+"t": 130.75,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 5,
+"ch": "Y",
+"sym": "-",
+"midi": 74
+},
+{
+"t": 131.25,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 5,
+"ch": "Y",
+"sym": "-",
+"midi": 74
+},
+{
+"t": 132.0,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 5,
+"ch": "O",
+"sym": "-",
+"midi": 77
+},
+{
+"t": 132.5,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 5,
+"ch": "O",
+"sym": "-",
+"midi": 77
+},
+{
+"t": 133.0,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 5,
+"ch": "O",
+"sym": "-",
+"midi": 77
+},
+{
+"t": 133.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 5,
+"ch": "U",
+"sym": ".",
+"midi": 72
+},
+{
+"t": 134.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 5,
+"ch": "U",
+"sym": ".",
+"midi": 72
+},
+{
+"t": 134.25,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 5,
+"ch": "U",
+"sym": "-",
+"midi": 72
+},
+{
+"t": 140.0,
+"dur": 0.375,
+"kind": "mark",
+"sender": "both",
+"msg": 6,
+"ch": "G",
+"sym": "-",
+"midi": 60
+},
+{
+"t": 140.5,
+"dur": 0.375,
+"kind": "mark",
+"sender": "both",
+"msg": 6,
+"ch": "G",
+"sym": "-",
+"midi": 60
+},
+{
+"t": 141.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "both",
+"msg": 6,
+"ch": "G",
+"sym": ".",
+"midi": 60
+},
+{
+"t": 141.5,
+"dur": 0.375,
+"kind": "mark",
+"sender": "both",
+"msg": 6,
+"ch": "O",
+"sym": "-",
+"midi": 65
+},
+{
+"t": 142.0,
+"dur": 0.375,
+"kind": "mark",
+"sender": "both",
+"msg": 6,
+"ch": "O",
+"sym": "-",
+"midi": 65
+},
+{
+"t": 142.5,
+"dur": 0.375,
+"kind": "mark",
+"sender": "both",
+"msg": 6,
+"ch": "O",
+"sym": "-",
+"midi": 65
+},
+{
+"t": 143.25,
+"dur": 0.375,
+"kind": "mark",
+"sender": "both",
+"msg": 6,
+"ch": "O",
+"sym": "-",
+"midi": 67
+},
+{
+"t": 143.75,
+"dur": 0.375,
+"kind": "mark",
+"sender": "both",
+"msg": 6,
+"ch": "O",
+"sym": "-",
+"midi": 67
+},
+{
+"t": 144.25,
+"dur": 0.375,
+"kind": "mark",
+"sender": "both",
+"msg": 6,
+"ch": "O",
+"sym": "-",
+"midi": 67
+},
+{
+"t": 145.0,
+"dur": 0.375,
+"kind": "mark",
+"sender": "both",
+"msg": 6,
+"ch": "D",
+"sym": "-",
+"midi": 69
+},
+{
+"t": 145.5,
+"dur": 0.125,
+"kind": "mark",
+"sender": "both",
+"msg": 6,
+"ch": "D",
+"sym": ".",
+"midi": 69
+},
+{
+"t": 145.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "both",
+"msg": 6,
+"ch": "D",
+"sym": ".",
+"midi": 69
+},
+{
+"t": 146.25,
+"dur": 0.375,
+"kind": "mark",
+"sender": "both",
+"msg": 6,
+"ch": "N",
+"sym": "-",
+"midi": 69
+},
+{
+"t": 146.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "both",
+"msg": 6,
+"ch": "N",
+"sym": ".",
+"midi": 69
+},
+{
+"t": 147.25,
+"dur": 0.125,
+"kind": "mark",
+"sender": "both",
+"msg": 6,
+"ch": "I",
+"sym": ".",
+"midi": 69
+},
+{
+"t": 147.5,
+"dur": 0.125,
+"kind": "mark",
+"sender": "both",
+"msg": 6,
+"ch": "I",
+"sym": ".",
+"midi": 69
+},
+{
+"t": 148.0,
+"dur": 0.375,
+"kind": "mark",
+"sender": "both",
+"msg": 6,
+"ch": "G",
+"sym": "-",
+"midi": 65
+},
+{
+"t": 148.5,
+"dur": 0.375,
+"kind": "mark",
+"sender": "both",
+"msg": 6,
+"ch": "G",
+"sym": "-",
+"midi": 65
+},
+{
+"t": 149.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "both",
+"msg": 6,
+"ch": "G",
+"sym": ".",
+"midi": 65
+},
+{
+"t": 149.5,
+"dur": 0.125,
+"kind": "mark",
+"sender": "both",
+"msg": 6,
+"ch": "H",
+"sym": ".",
+"midi": 65
+},
+{
+"t": 149.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "both",
+"msg": 6,
+"ch": "H",
+"sym": ".",
+"midi": 65
+},
+{
+"t": 150.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "both",
+"msg": 6,
+"ch": "H",
+"sym": ".",
+"midi": 65
+},
+{
+"t": 150.25,
+"dur": 0.125,
+"kind": "mark",
+"sender": "both",
+"msg": 6,
+"ch": "H",
+"sym": ".",
+"midi": 65
+},
+{
+"t": 150.75,
+"dur": 0.375,
+"kind": "mark",
+"sender": "both",
+"msg": 6,
+"ch": "T",
+"sym": "-",
+"midi": 55
+}
+],
+"bars": [
+{
+"u": 0,
+"chord": "Am",
+"lvl": 0
+},
+{
+"u": 16,
+"chord": "Am",
+"lvl": 0
+},
+{
+"u": 32,
+"chord": "Am",
+"lvl": 1,
+"msg": 0
+},
+{
+"u": 48,
+"chord": "F",
+"lvl": 1,
+"msg": 0
+},
+{
+"u": 64,
+"chord": "C",
+"lvl": 1,
+"msg": 0
+},
+{
+"u": 80,
+"chord": "G",
+"lvl": 1,
+"msg": 0
+},
+{
+"u": 96,
+"chord": "Am",
+"lvl": 1,
+"msg": 0
+},
+{
+"u": 112,
+"chord": "F",
+"lvl": 1,
+"msg": 0
+},
+{
+"u": 128,
+"chord": "C",
+"lvl": 1,
+"msg": 0
+},
+{
+"u": 144,
+"chord": "G",
+"lvl": 1,
+"msg": 0
+},
+{
+"u": 160,
+"chord": "C",
+"lvl": 1,
+"breath": true,
+"msg": 0,
+"last": true,
+"coda": false
+},
+{
+"u": 176,
+"chord": "F",
+"lvl": 2,
+"msg": 1
+},
+{
+"u": 192,
+"chord": "C",
+"lvl": 2,
+"msg": 1
+},
+{
+"u": 208,
+"chord": "G",
+"lvl": 2,
+"msg": 1
+},
+{
+"u": 224,
+"chord": "Am",
+"lvl": 2,
+"msg": 1
+},
+{
+"u": 240,
+"chord": "F",
+"lvl": 2,
+"msg": 1
+},
+{
+"u": 256,
+"chord": "C",
+"lvl": 2,
+"msg": 1
+},
+{
+"u": 272,
+"chord": "Esus",
+"lvl": 2,
+"msg": 1
+},
+{
+"u": 288,
+"chord": "E",
+"lvl": 2,
+"msg": 1
+},
+{
+"u": 304,
+"chord": "F",
+"lvl": 2,
+"msg": 1
+},
+{
+"u": 320,
+"chord": "C",
+"lvl": 2,
+"msg": 1
+},
+{
+"u": 336,
+"chord": "G",
+"lvl": 2,
+"msg": 1
+},
+{
+"u": 352,
+"chord": "Am",
+"lvl": 2,
+"msg": 1
+},
+{
+"u": 368,
+"chord": "F",
+"lvl": 2,
+"msg": 1
+},
+{
+"u": 384,
+"chord": "C",
+"lvl": 2,
+"msg": 1
+},
+{
+"u": 400,
+"chord": "Esus",
+"lvl": 2,
+"msg": 1
+},
+{
+"u": 416,
+"chord": "E",
+"lvl": 2,
+"breath": true,
+"msg": 1,
+"last": true,
+"coda": false
+},
+{
+"u": 432,
+"chord": "Am",
+"lvl": 3,
+"msg": 2
+},
+{
+"u": 448,
+"chord": "F",
+"lvl": 3,
+"msg": 2
+},
+{
+"u": 464,
+"chord": "C",
+"lvl": 3,
+"msg": 2
+},
+{
+"u": 480,
+"chord": "G",
+"lvl": 3,
+"msg": 2
+},
+{
+"u": 496,
+"chord": "Am",
+"lvl": 3,
+"msg": 2
+},
+{
+"u": 512,
+"chord": "F",
+"lvl": 3,
+"msg": 2
+},
+{
+"u": 528,
+"chord": "C",
+"lvl": 3,
+"msg": 2
+},
+{
+"u": 544,
+"chord": "G",
+"lvl": 3,
+"msg": 2
+},
+{
+"u": 560,
+"chord": "Am",
+"lvl": 3,
+"msg": 2
+},
+{
+"u": 576,
+"chord": "F",
+"lvl": 3,
+"msg": 2
+},
+{
+"u": 592,
+"chord": "C",
+"lvl": 3,
+"msg": 2
+},
+{
+"u": 608,
+"chord": "G",
+"lvl": 3,
+"msg": 2
+},
+{
+"u": 624,
+"chord": "G",
+"lvl": 3,
+"breath": true,
+"msg": 2,
+"last": true,
+"coda": false
+},
+{
+"u": 640,
+"chord": "C",
+"lvl": 4,
+"msg": 3
+},
+{
+"u": 656,
+"chord": "G",
+"lvl": 4,
+"msg": 3
+},
+{
+"u": 672,
+"chord": "Am",
+"lvl": 4,
+"msg": 3
+},
+{
+"u": 688,
+"chord": "F",
+"lvl": 4,
+"msg": 3
+},
+{
+"u": 704,
+"chord": "C",
+"lvl": 4,
+"msg": 3
+},
+{
+"u": 720,
+"chord": "G",
+"lvl": 4,
+"msg": 3
+},
+{
+"u": 736,
+"chord": "Am",
+"lvl": 4,
+"msg": 3
+},
+{
+"u": 752,
+"chord": "F",
+"lvl": 4,
+"msg": 3
+},
+{
+"u": 768,
+"chord": "C",
+"lvl": 4,
+"msg": 3
+},
+{
+"u": 784,
+"chord": "A",
+"lvl": 4,
+"breath": true,
+"msg": 3,
+"last": true,
+"coda": false
+},
+{
+"u": 800,
+"chord": "Dm",
+"lvl": 4,
+"msg": 4
+},
+{
+"u": 816,
+"chord": "Am",
+"lvl": 4,
+"msg": 4
+},
+{
+"u": 832,
+"chord": "F",
+"lvl": 4,
+"msg": 4
+},
+{
+"u": 848,
+"chord": "G",
+"lvl": 4,
+"msg": 4
+},
+{
+"u": 864,
+"chord": "Dm",
+"lvl": 4,
+"msg": 4
+},
+{
+"u": 880,
+"chord": "Am",
+"lvl": 4,
+"msg": 4
+},
+{
+"u": 896,
+"chord": "F",
+"lvl": 4,
+"msg": 4
+},
+{
+"u": 912,
+"chord": "G",
+"lvl": 4,
+"msg": 4
+},
+{
+"u": 928,
+"chord": "Dm",
+"lvl": 4,
+"msg": 4
+},
+{
+"u": 944,
+"chord": "Am",
+"lvl": 4,
+"msg": 4
+},
+{
+"u": 960,
+"chord": "F",
+"lvl": 4,
+"msg": 4
+},
+{
+"u": 976,
+"chord": "C",
+"lvl": 4,
+"breath": true,
+"msg": 4,
+"last": true,
+"coda": false
+},
+{
+"u": 992,
+"chord": "F",
+"lvl": 1,
+"msg": 5
+},
+{
+"u": 1008,
+"chord": "G",
+"lvl": 1,
+"msg": 5
+},
+{
+"u": 1024,
+"chord": "F",
+"lvl": 1,
+"msg": 5
+},
+{
+"u": 1040,
+"chord": "G",
+"lvl": 1,
+"msg": 5
+},
+{
+"u": 1056,
+"chord": "F",
+"lvl": 1,
+"msg": 5
+},
+{
+"u": 1072,
+"chord": "G",
+"lvl": 1,
+"msg": 5
+},
+{
+"u": 1088,
+"chord": "F",
+"lvl": 1,
+"breath": true,
+"msg": 5,
+"last": false,
+"coda": false
+},
+{
+"u": 1104,
+"chord": "C",
+"lvl": 1,
+"breath": true,
+"msg": 5,
+"last": true,
+"coda": false
+},
+{
+"u": 1120,
+"chord": "F",
+"lvl": 5,
+"msg": 6
+},
+{
+"u": 1136,
+"chord": "G",
+"lvl": 5,
+"msg": 6
+},
+{
+"u": 1152,
+"chord": "Asus",
+"lvl": 5,
+"msg": 6
+},
+{
+"u": 1168,
+"chord": "A",
+"lvl": 5,
+"msg": 6
+},
+{
+"u": 1184,
+"chord": "F",
+"lvl": 5,
+"msg": 6
+},
+{
+"u": 1200,
+"chord": "G",
+"lvl": 5,
+"msg": 6
+},
+{
+"u": 1216,
+"chord": "F",
+"lvl": 5,
+"breath": true,
+"msg": 6,
+"last": false,
+"coda": true
+},
+{
+"u": 1232,
+"chord": "Asus",
+"lvl": 5,
+"breath": true,
+"msg": 6,
+"last": false,
+"coda": true
+},
+{
+"u": 1248,
+"chord": "A",
+"lvl": 5,
+"breath": true,
+"msg": 6,
+"last": false,
+"coda": true
+},
+{
+"u": 1264,
+"chord": "A",
+"lvl": 5,
+"breath": true,
+"msg": 6,
+"last": true,
+"coda": true
+}
+],
+"acc": [
+{
+"t": 0.0,
+"midi": 76,
+"vel": 0.42,
+"dur": 0.625,
+"voice": "answer"
+},
+{
+"t": 0.5,
+"midi": 72,
+"vel": 0.38,
+"dur": 0.625,
+"voice": "answer"
+},
+{
+"t": 1.0,
+"midi": 69,
+"vel": 0.34,
+"dur": 0.625,
+"voice": "answer"
+},
+{
+"t": 1.5,
+"midi": 68,
+"vel": 0.3,
+"dur": 0.5,
+"voice": "answer"
+},
+{
+"t": 2.0,
+"midi": 76,
+"vel": 0.42,
+"dur": 0.625,
+"voice": "answer"
+},
+{
+"t": 2.5,
+"midi": 72,
+"vel": 0.38,
+"dur": 0.625,
+"voice": "answer"
+},
+{
+"t": 3.0,
+"midi": 69,
+"vel": 0.34,
+"dur": 0.625,
+"voice": "answer"
+},
+{
+"t": 3.5,
+"midi": 68,
+"vel": 0.3,
+"dur": 0.5,
+"voice": "answer"
+},
+{
+"t": 4.0,
+"midi": 45,
+"vel": 0.45,
+"dur": 2.0,
+"voice": "bass"
+},
+{
+"t": 6.0,
+"midi": 41,
+"vel": 0.45,
+"dur": 2.0,
+"voice": "bass"
+},
+{
+"t": 8.0,
+"midi": 48,
+"vel": 0.45,
+"dur": 2.0,
+"voice": "bass"
+},
+{
+"t": 10.0,
+"midi": 43,
+"vel": 0.45,
+"dur": 2.0,
+"voice": "bass"
+},
+{
+"t": 12.0,
+"midi": 45,
+"vel": 0.45,
+"dur": 2.0,
+"voice": "bass"
+},
+{
+"t": 14.0,
+"midi": 41,
+"vel": 0.45,
+"dur": 2.0,
+"voice": "bass"
+},
+{
+"t": 16.0,
+"midi": 48,
+"vel": 0.45,
+"dur": 2.0,
+"voice": "bass"
+},
+{
+"t": 18.0,
+"midi": 43,
+"vel": 0.45,
+"dur": 2.0,
+"voice": "bass"
+},
+{
+"t": 20.0,
+"midi": 48,
+"vel": 0.45,
+"dur": 2.0,
+"voice": "bass"
+},
+{
+"t": 20.0,
+"midi": 67,
+"vel": 0.42,
+"dur": 0.625,
+"voice": "answer"
+},
+{
+"t": 20.5,
+"midi": 64,
+"vel": 0.38,
+"dur": 0.625,
+"voice": "answer"
+},
+{
+"t": 21.0,
+"midi": 60,
+"vel": 0.34,
+"dur": 0.625,
+"voice": "answer"
+},
+{
+"t": 21.5,
+"midi": 64,
+"vel": 0.3,
+"dur": 0.5,
+"voice": "answer"
+},
+{
+"t": 22.0,
+"midi": 41,
+"vel": 0.55,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 22.75,
+"midi": 41,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 23.0,
+"midi": 41,
+"vel": 0.5,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 23.75,
+"midi": 48,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 22.5,
+"midi": 53,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 22.5,
+"midi": 57,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 22.5,
+"midi": 60,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 23.5,
+"midi": 53,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 23.5,
+"midi": 57,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 23.5,
+"midi": 60,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 24.0,
+"midi": 48,
+"vel": 0.55,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 24.75,
+"midi": 48,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 25.0,
+"midi": 48,
+"vel": 0.5,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 25.75,
+"midi": 43,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 24.5,
+"midi": 48,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 24.5,
+"midi": 52,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 24.5,
+"midi": 55,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 25.5,
+"midi": 48,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 25.5,
+"midi": 52,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 25.5,
+"midi": 55,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 26.0,
+"midi": 43,
+"vel": 0.55,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 26.75,
+"midi": 43,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 27.0,
+"midi": 43,
+"vel": 0.5,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 27.75,
+"midi": 45,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 26.5,
+"midi": 55,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 26.5,
+"midi": 59,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 26.5,
+"midi": 62,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 27.5,
+"midi": 55,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 27.5,
+"midi": 59,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 27.5,
+"midi": 62,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 28.0,
+"midi": 45,
+"vel": 0.55,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 28.75,
+"midi": 45,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 29.0,
+"midi": 45,
+"vel": 0.5,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 29.75,
+"midi": 41,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 28.5,
+"midi": 57,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 28.5,
+"midi": 60,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 28.5,
+"midi": 64,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 29.5,
+"midi": 57,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 29.5,
+"midi": 60,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 29.5,
+"midi": 64,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 30.0,
+"midi": 41,
+"vel": 0.55,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 30.75,
+"midi": 41,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 31.0,
+"midi": 41,
+"vel": 0.5,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 31.75,
+"midi": 48,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 30.5,
+"midi": 53,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 30.5,
+"midi": 57,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 30.5,
+"midi": 60,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 31.5,
+"midi": 53,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 31.5,
+"midi": 57,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 31.5,
+"midi": 60,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 32.0,
+"midi": 48,
+"vel": 0.55,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 32.75,
+"midi": 48,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 33.0,
+"midi": 48,
+"vel": 0.5,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 33.75,
+"midi": 40,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 32.5,
+"midi": 48,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 32.5,
+"midi": 52,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 32.5,
+"midi": 55,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 33.5,
+"midi": 48,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 33.5,
+"midi": 52,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 33.5,
+"midi": 55,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 34.0,
+"midi": 40,
+"vel": 0.55,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 34.75,
+"midi": 40,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 35.0,
+"midi": 40,
+"vel": 0.5,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 35.75,
+"midi": 40,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 34.5,
+"midi": 52,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 34.5,
+"midi": 57,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 34.5,
+"midi": 59,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 35.5,
+"midi": 52,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 35.5,
+"midi": 57,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 35.5,
+"midi": 59,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 36.0,
+"midi": 40,
+"vel": 0.55,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 36.75,
+"midi": 40,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 37.0,
+"midi": 40,
+"vel": 0.5,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 37.75,
+"midi": 41,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 36.5,
+"midi": 52,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 36.5,
+"midi": 56,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 36.5,
+"midi": 59,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 37.5,
+"midi": 52,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 37.5,
+"midi": 56,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 37.5,
+"midi": 59,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 38.0,
+"midi": 41,
+"vel": 0.55,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 38.75,
+"midi": 41,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 39.0,
+"midi": 41,
+"vel": 0.5,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 39.75,
+"midi": 48,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 38.5,
+"midi": 53,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 38.5,
+"midi": 57,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 38.5,
+"midi": 60,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 39.5,
+"midi": 53,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 39.5,
+"midi": 57,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 39.5,
+"midi": 60,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 40.0,
+"midi": 48,
+"vel": 0.55,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 40.75,
+"midi": 48,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 41.0,
+"midi": 48,
+"vel": 0.5,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 41.75,
+"midi": 43,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 40.5,
+"midi": 48,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 40.5,
+"midi": 52,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 40.5,
+"midi": 55,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 41.5,
+"midi": 48,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 41.5,
+"midi": 52,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 41.5,
+"midi": 55,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 42.0,
+"midi": 43,
+"vel": 0.55,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 42.75,
+"midi": 43,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 43.0,
+"midi": 43,
+"vel": 0.5,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 43.75,
+"midi": 45,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 42.5,
+"midi": 55,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 42.5,
+"midi": 59,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 42.5,
+"midi": 62,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 43.5,
+"midi": 55,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 43.5,
+"midi": 59,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 43.5,
+"midi": 62,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 44.0,
+"midi": 45,
+"vel": 0.55,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 44.75,
+"midi": 45,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 45.0,
+"midi": 45,
+"vel": 0.5,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 45.75,
+"midi": 41,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 44.5,
+"midi": 57,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 44.5,
+"midi": 60,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 44.5,
+"midi": 64,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 45.5,
+"midi": 57,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 45.5,
+"midi": 60,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 45.5,
+"midi": 64,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 46.0,
+"midi": 41,
+"vel": 0.55,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 46.75,
+"midi": 41,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 47.0,
+"midi": 41,
+"vel": 0.5,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 47.75,
+"midi": 48,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 46.5,
+"midi": 53,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 46.5,
+"midi": 57,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 46.5,
+"midi": 60,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 47.5,
+"midi": 53,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 47.5,
+"midi": 57,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 47.5,
+"midi": 60,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 48.0,
+"midi": 48,
+"vel": 0.55,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 48.75,
+"midi": 48,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 49.0,
+"midi": 48,
+"vel": 0.5,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 49.75,
+"midi": 40,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 48.5,
+"midi": 48,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 48.5,
+"midi": 52,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 48.5,
+"midi": 55,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 49.5,
+"midi": 48,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 49.5,
+"midi": 52,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 49.5,
+"midi": 55,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 50.0,
+"midi": 40,
+"vel": 0.55,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 50.75,
+"midi": 40,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 51.0,
+"midi": 40,
+"vel": 0.5,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 51.75,
+"midi": 40,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 50.5,
+"midi": 52,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 50.5,
+"midi": 57,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 50.5,
+"midi": 59,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 51.5,
+"midi": 52,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 51.5,
+"midi": 57,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 51.5,
+"midi": 59,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 52.0,
+"midi": 40,
+"vel": 0.55,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 52.75,
+"midi": 40,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 53.0,
+"midi": 40,
+"vel": 0.5,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 53.75,
+"midi": 45,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 52.5,
+"midi": 52,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 52.5,
+"midi": 56,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 52.5,
+"midi": 59,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 53.5,
+"midi": 52,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 53.5,
+"midi": 56,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 53.5,
+"midi": 59,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 52.0,
+"midi": 71,
+"vel": 0.42,
+"dur": 0.625,
+"voice": "answer"
+},
+{
+"t": 52.5,
+"midi": 68,
+"vel": 0.38,
+"dur": 0.625,
+"voice": "answer"
+},
+{
+"t": 53.0,
+"midi": 64,
+"vel": 0.34,
+"dur": 0.625,
+"voice": "answer"
+},
+{
+"t": 53.5,
+"midi": 63,
+"vel": 0.3,
+"dur": 0.5,
+"voice": "answer"
+},
+{
+"t": 54.0,
+"midi": 45,
+"vel": 0.55,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 54.75,
+"midi": 45,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 55.0,
+"midi": 45,
+"vel": 0.5,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 55.75,
+"midi": 41,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 54.5,
+"midi": 57,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 54.5,
+"midi": 60,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 54.5,
+"midi": 64,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 55.5,
+"midi": 57,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 55.5,
+"midi": 60,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 55.5,
+"midi": 64,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 54.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 54.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 54.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 54.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 55.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 55.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 55.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 55.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 54.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 55.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 56.0,
+"midi": 41,
+"vel": 0.55,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 56.75,
+"midi": 41,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 57.0,
+"midi": 41,
+"vel": 0.5,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 57.75,
+"midi": 48,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 56.5,
+"midi": 53,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 56.5,
+"midi": 57,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 56.5,
+"midi": 60,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 57.5,
+"midi": 53,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 57.5,
+"midi": 57,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 57.5,
+"midi": 60,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 56.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 56.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 56.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 56.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 57.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 57.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 57.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 57.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 56.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 57.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 58.0,
+"midi": 48,
+"vel": 0.55,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 58.75,
+"midi": 48,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 59.0,
+"midi": 48,
+"vel": 0.5,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 59.75,
+"midi": 43,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 58.5,
+"midi": 48,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 58.5,
+"midi": 52,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 58.5,
+"midi": 55,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 59.5,
+"midi": 48,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 59.5,
+"midi": 52,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 59.5,
+"midi": 55,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 58.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 58.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 58.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 58.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 59.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 59.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 59.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 59.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 58.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 59.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 60.0,
+"midi": 43,
+"vel": 0.55,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 60.75,
+"midi": 43,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 61.0,
+"midi": 43,
+"vel": 0.5,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 61.75,
+"midi": 45,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 60.5,
+"midi": 55,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 60.5,
+"midi": 59,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 60.5,
+"midi": 62,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 61.5,
+"midi": 55,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 61.5,
+"midi": 59,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 61.5,
+"midi": 62,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 60.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 60.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 60.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 60.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 61.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 61.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 61.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 61.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 60.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 61.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 62.0,
+"midi": 45,
+"vel": 0.55,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 62.75,
+"midi": 45,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 63.0,
+"midi": 45,
+"vel": 0.5,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 63.75,
+"midi": 41,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 62.5,
+"midi": 57,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 62.5,
+"midi": 60,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 62.5,
+"midi": 64,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 63.5,
+"midi": 57,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 63.5,
+"midi": 60,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 63.5,
+"midi": 64,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 62.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 62.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 62.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 62.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 63.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 63.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 63.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 63.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 62.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 63.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 64.0,
+"midi": 41,
+"vel": 0.55,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 64.75,
+"midi": 41,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 65.0,
+"midi": 41,
+"vel": 0.5,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 65.75,
+"midi": 48,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 64.5,
+"midi": 53,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 64.5,
+"midi": 57,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 64.5,
+"midi": 60,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 65.5,
+"midi": 53,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 65.5,
+"midi": 57,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 65.5,
+"midi": 60,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 64.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 64.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 64.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 64.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 65.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 65.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 65.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 65.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 64.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 65.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 66.0,
+"midi": 48,
+"vel": 0.55,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 66.75,
+"midi": 48,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 67.0,
+"midi": 48,
+"vel": 0.5,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 67.75,
+"midi": 43,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 66.5,
+"midi": 48,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 66.5,
+"midi": 52,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 66.5,
+"midi": 55,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 67.5,
+"midi": 48,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 67.5,
+"midi": 52,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 67.5,
+"midi": 55,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 66.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 66.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 66.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 66.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 67.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 67.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 67.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 67.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 66.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 67.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 68.0,
+"midi": 43,
+"vel": 0.55,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 68.75,
+"midi": 43,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 69.0,
+"midi": 43,
+"vel": 0.5,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 69.75,
+"midi": 45,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 68.5,
+"midi": 55,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 68.5,
+"midi": 59,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 68.5,
+"midi": 62,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 69.5,
+"midi": 55,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 69.5,
+"midi": 59,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 69.5,
+"midi": 62,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 68.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 68.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 68.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 68.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 69.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 69.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 69.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 69.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 68.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 69.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 70.0,
+"midi": 45,
+"vel": 0.55,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 70.75,
+"midi": 45,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 71.0,
+"midi": 45,
+"vel": 0.5,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 71.75,
+"midi": 41,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 70.5,
+"midi": 57,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 70.5,
+"midi": 60,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 70.5,
+"midi": 64,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 71.5,
+"midi": 57,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 71.5,
+"midi": 60,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 71.5,
+"midi": 64,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 70.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 70.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 70.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 70.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 71.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 71.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 71.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 71.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 70.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 71.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 72.0,
+"midi": 41,
+"vel": 0.55,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 72.75,
+"midi": 41,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 73.0,
+"midi": 41,
+"vel": 0.5,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 73.75,
+"midi": 48,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 72.5,
+"midi": 53,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 72.5,
+"midi": 57,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 72.5,
+"midi": 60,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 73.5,
+"midi": 53,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 73.5,
+"midi": 57,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 73.5,
+"midi": 60,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 72.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 72.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 72.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 72.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 73.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 73.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 73.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 73.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 72.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 73.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 74.0,
+"midi": 48,
+"vel": 0.55,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 74.75,
+"midi": 48,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 75.0,
+"midi": 48,
+"vel": 0.5,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 75.75,
+"midi": 43,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 74.5,
+"midi": 48,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 74.5,
+"midi": 52,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 74.5,
+"midi": 55,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 75.5,
+"midi": 48,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 75.5,
+"midi": 52,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 75.5,
+"midi": 55,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 74.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 74.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 74.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 74.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 75.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 75.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 75.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 75.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 74.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 75.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 76.0,
+"midi": 43,
+"vel": 0.55,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 76.75,
+"midi": 43,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 77.0,
+"midi": 43,
+"vel": 0.5,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 77.75,
+"midi": 43,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 76.5,
+"midi": 55,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 76.5,
+"midi": 59,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 76.5,
+"midi": 62,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 77.5,
+"midi": 55,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 77.5,
+"midi": 59,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 77.5,
+"midi": 62,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 76.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 76.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 76.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 76.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 77.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 77.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 77.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 77.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 76.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 77.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 78.0,
+"midi": 43,
+"vel": 0.55,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 78.75,
+"midi": 43,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 79.0,
+"midi": 43,
+"vel": 0.5,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 79.75,
+"midi": 48,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 78.5,
+"midi": 55,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 78.5,
+"midi": 59,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 78.5,
+"midi": 62,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 79.5,
+"midi": 55,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 79.5,
+"midi": 59,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 79.5,
+"midi": 62,
+"vel": 0.26,
+"dur": 0.375,
+"voice": "comp"
+},
+{
+"t": 78.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 78.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 78.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 78.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 79.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 79.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 79.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 79.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 78.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 79.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 78.0,
+"midi": 74,
+"vel": 0.42,
+"dur": 0.625,
+"voice": "answer"
+},
+{
+"t": 78.5,
+"midi": 71,
+"vel": 0.38,
+"dur": 0.625,
+"voice": "answer"
+},
+{
+"t": 79.0,
+"midi": 67,
+"vel": 0.34,
+"dur": 0.625,
+"voice": "answer"
+},
+{
+"t": 79.5,
+"midi": 66,
+"vel": 0.3,
+"dur": 0.5,
+"voice": "answer"
+},
+{
+"t": 80.0,
+"midi": 48,
+"vel": 0.55,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 80.75,
+"midi": 48,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 81.0,
+"midi": 48,
+"vel": 0.5,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 81.75,
+"midi": 43,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 80.0,
+"midi": 48,
+"vel": 0.28,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 80.25,
+"midi": 52,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 80.5,
+"midi": 55,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 80.75,
+"midi": 60,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 81.0,
+"midi": 64,
+"vel": 0.28,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 81.25,
+"midi": 60,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 81.5,
+"midi": 55,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 81.75,
+"midi": 52,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 80.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 80.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 80.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 80.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 81.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 81.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 81.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 81.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 80.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 81.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 80.5,
+"midi": 0,
+"vel": 0.45,
+"dur": 0.125,
+"voice": "rim"
+},
+{
+"t": 81.5,
+"midi": 0,
+"vel": 0.45,
+"dur": 0.125,
+"voice": "rim"
+},
+{
+"t": 82.0,
+"midi": 43,
+"vel": 0.55,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 82.75,
+"midi": 43,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 83.0,
+"midi": 43,
+"vel": 0.5,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 83.75,
+"midi": 45,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 82.0,
+"midi": 55,
+"vel": 0.28,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 82.25,
+"midi": 59,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 82.5,
+"midi": 62,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 82.75,
+"midi": 67,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 83.0,
+"midi": 71,
+"vel": 0.28,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 83.25,
+"midi": 67,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 83.5,
+"midi": 62,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 83.75,
+"midi": 59,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 82.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 82.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 82.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 82.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 83.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 83.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 83.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 83.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 82.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 83.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 82.5,
+"midi": 0,
+"vel": 0.45,
+"dur": 0.125,
+"voice": "rim"
+},
+{
+"t": 83.5,
+"midi": 0,
+"vel": 0.45,
+"dur": 0.125,
+"voice": "rim"
+},
+{
+"t": 84.0,
+"midi": 45,
+"vel": 0.55,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 84.75,
+"midi": 45,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 85.0,
+"midi": 45,
+"vel": 0.5,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 85.75,
+"midi": 41,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 84.0,
+"midi": 57,
+"vel": 0.28,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 84.25,
+"midi": 60,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 84.5,
+"midi": 64,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 84.75,
+"midi": 69,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 85.0,
+"midi": 72,
+"vel": 0.28,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 85.25,
+"midi": 69,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 85.5,
+"midi": 64,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 85.75,
+"midi": 60,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 84.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 84.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 84.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 84.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 85.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 85.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 85.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 85.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 84.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 85.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 84.5,
+"midi": 0,
+"vel": 0.45,
+"dur": 0.125,
+"voice": "rim"
+},
+{
+"t": 85.5,
+"midi": 0,
+"vel": 0.45,
+"dur": 0.125,
+"voice": "rim"
+},
+{
+"t": 86.0,
+"midi": 41,
+"vel": 0.55,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 86.75,
+"midi": 41,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 87.0,
+"midi": 41,
+"vel": 0.5,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 87.75,
+"midi": 48,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 86.0,
+"midi": 53,
+"vel": 0.28,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 86.25,
+"midi": 57,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 86.5,
+"midi": 60,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 86.75,
+"midi": 65,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 87.0,
+"midi": 69,
+"vel": 0.28,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 87.25,
+"midi": 65,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 87.5,
+"midi": 60,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 87.75,
+"midi": 57,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 86.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 86.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 86.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 86.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 87.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 87.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 87.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 87.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 86.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 87.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 86.5,
+"midi": 0,
+"vel": 0.45,
+"dur": 0.125,
+"voice": "rim"
+},
+{
+"t": 87.5,
+"midi": 0,
+"vel": 0.45,
+"dur": 0.125,
+"voice": "rim"
+},
+{
+"t": 88.0,
+"midi": 48,
+"vel": 0.55,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 88.75,
+"midi": 48,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 89.0,
+"midi": 48,
+"vel": 0.5,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 89.75,
+"midi": 43,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 88.0,
+"midi": 48,
+"vel": 0.28,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 88.25,
+"midi": 52,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 88.5,
+"midi": 55,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 88.75,
+"midi": 60,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 89.0,
+"midi": 64,
+"vel": 0.28,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 89.25,
+"midi": 60,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 89.5,
+"midi": 55,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 89.75,
+"midi": 52,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 88.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 88.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 88.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 88.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 89.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 89.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 89.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 89.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 88.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 89.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 88.5,
+"midi": 0,
+"vel": 0.45,
+"dur": 0.125,
+"voice": "rim"
+},
+{
+"t": 89.5,
+"midi": 0,
+"vel": 0.45,
+"dur": 0.125,
+"voice": "rim"
+},
+{
+"t": 90.0,
+"midi": 43,
+"vel": 0.55,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 90.75,
+"midi": 43,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 91.0,
+"midi": 43,
+"vel": 0.5,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 91.75,
+"midi": 45,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 90.0,
+"midi": 55,
+"vel": 0.28,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 90.25,
+"midi": 59,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 90.5,
+"midi": 62,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 90.75,
+"midi": 67,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 91.0,
+"midi": 71,
+"vel": 0.28,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 91.25,
+"midi": 67,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 91.5,
+"midi": 62,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 91.75,
+"midi": 59,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 90.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 90.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 90.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 90.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 91.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 91.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 91.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 91.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 90.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 91.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 90.5,
+"midi": 0,
+"vel": 0.45,
+"dur": 0.125,
+"voice": "rim"
+},
+{
+"t": 91.5,
+"midi": 0,
+"vel": 0.45,
+"dur": 0.125,
+"voice": "rim"
+},
+{
+"t": 92.0,
+"midi": 45,
+"vel": 0.55,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 92.75,
+"midi": 45,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 93.0,
+"midi": 45,
+"vel": 0.5,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 93.75,
+"midi": 41,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 92.0,
+"midi": 57,
+"vel": 0.28,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 92.25,
+"midi": 60,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 92.5,
+"midi": 64,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 92.75,
+"midi": 69,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 93.0,
+"midi": 72,
+"vel": 0.28,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 93.25,
+"midi": 69,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 93.5,
+"midi": 64,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 93.75,
+"midi": 60,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 92.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 92.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 92.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 92.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 93.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 93.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 93.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 93.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 92.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 93.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 92.5,
+"midi": 0,
+"vel": 0.45,
+"dur": 0.125,
+"voice": "rim"
+},
+{
+"t": 93.5,
+"midi": 0,
+"vel": 0.45,
+"dur": 0.125,
+"voice": "rim"
+},
+{
+"t": 94.0,
+"midi": 41,
+"vel": 0.55,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 94.75,
+"midi": 41,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 95.0,
+"midi": 41,
+"vel": 0.5,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 95.75,
+"midi": 48,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 94.0,
+"midi": 53,
+"vel": 0.28,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 94.25,
+"midi": 57,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 94.5,
+"midi": 60,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 94.75,
+"midi": 65,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 95.0,
+"midi": 69,
+"vel": 0.28,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 95.25,
+"midi": 65,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 95.5,
+"midi": 60,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 95.75,
+"midi": 57,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 94.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 94.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 94.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 94.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 95.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 95.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 95.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 95.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 94.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 95.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 94.5,
+"midi": 0,
+"vel": 0.45,
+"dur": 0.125,
+"voice": "rim"
+},
+{
+"t": 95.5,
+"midi": 0,
+"vel": 0.45,
+"dur": 0.125,
+"voice": "rim"
+},
+{
+"t": 96.0,
+"midi": 48,
+"vel": 0.55,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 96.75,
+"midi": 48,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 97.0,
+"midi": 48,
+"vel": 0.5,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 97.75,
+"midi": 45,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 96.0,
+"midi": 48,
+"vel": 0.28,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 96.25,
+"midi": 52,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 96.5,
+"midi": 55,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 96.75,
+"midi": 60,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 97.0,
+"midi": 64,
+"vel": 0.28,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 97.25,
+"midi": 60,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 97.5,
+"midi": 55,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 97.75,
+"midi": 52,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 96.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 96.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 96.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 96.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 97.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 97.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 97.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 97.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 96.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 97.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 96.5,
+"midi": 0,
+"vel": 0.45,
+"dur": 0.125,
+"voice": "rim"
+},
+{
+"t": 97.5,
+"midi": 0,
+"vel": 0.45,
+"dur": 0.125,
+"voice": "rim"
+},
+{
+"t": 98.0,
+"midi": 45,
+"vel": 0.55,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 98.75,
+"midi": 45,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 99.0,
+"midi": 45,
+"vel": 0.5,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 99.75,
+"midi": 38,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 98.0,
+"midi": 57,
+"vel": 0.28,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 98.25,
+"midi": 61,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 98.5,
+"midi": 64,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 98.75,
+"midi": 69,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 99.0,
+"midi": 73,
+"vel": 0.28,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 99.25,
+"midi": 69,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 99.5,
+"midi": 64,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 99.75,
+"midi": 61,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 98.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 98.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 98.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 98.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 99.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 99.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 99.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 99.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 98.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 99.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 98.5,
+"midi": 0,
+"vel": 0.45,
+"dur": 0.125,
+"voice": "rim"
+},
+{
+"t": 99.5,
+"midi": 0,
+"vel": 0.45,
+"dur": 0.125,
+"voice": "rim"
+},
+{
+"t": 98.0,
+"midi": 76,
+"vel": 0.42,
+"dur": 0.625,
+"voice": "answer"
+},
+{
+"t": 98.5,
+"midi": 73,
+"vel": 0.38,
+"dur": 0.625,
+"voice": "answer"
+},
+{
+"t": 99.0,
+"midi": 69,
+"vel": 0.34,
+"dur": 0.625,
+"voice": "answer"
+},
+{
+"t": 99.5,
+"midi": 68,
+"vel": 0.3,
+"dur": 0.5,
+"voice": "answer"
+},
+{
+"t": 100.0,
+"midi": 38,
+"vel": 0.55,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 100.75,
+"midi": 38,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 101.0,
+"midi": 38,
+"vel": 0.5,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 101.75,
+"midi": 45,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 100.0,
+"midi": 50,
+"vel": 0.28,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 100.25,
+"midi": 53,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 100.5,
+"midi": 57,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 100.75,
+"midi": 62,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 101.0,
+"midi": 65,
+"vel": 0.28,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 101.25,
+"midi": 62,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 101.5,
+"midi": 57,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 101.75,
+"midi": 53,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 100.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 100.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 100.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 100.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 101.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 101.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 101.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 101.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 100.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 101.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 100.5,
+"midi": 0,
+"vel": 0.45,
+"dur": 0.125,
+"voice": "rim"
+},
+{
+"t": 101.5,
+"midi": 0,
+"vel": 0.45,
+"dur": 0.125,
+"voice": "rim"
+},
+{
+"t": 102.0,
+"midi": 45,
+"vel": 0.55,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 102.75,
+"midi": 45,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 103.0,
+"midi": 45,
+"vel": 0.5,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 103.75,
+"midi": 41,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 102.0,
+"midi": 57,
+"vel": 0.28,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 102.25,
+"midi": 60,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 102.5,
+"midi": 64,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 102.75,
+"midi": 69,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 103.0,
+"midi": 72,
+"vel": 0.28,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 103.25,
+"midi": 69,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 103.5,
+"midi": 64,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 103.75,
+"midi": 60,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 102.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 102.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 102.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 102.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 103.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 103.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 103.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 103.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 102.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 103.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 102.5,
+"midi": 0,
+"vel": 0.45,
+"dur": 0.125,
+"voice": "rim"
+},
+{
+"t": 103.5,
+"midi": 0,
+"vel": 0.45,
+"dur": 0.125,
+"voice": "rim"
+},
+{
+"t": 104.0,
+"midi": 41,
+"vel": 0.55,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 104.75,
+"midi": 41,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 105.0,
+"midi": 41,
+"vel": 0.5,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 105.75,
+"midi": 43,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 104.0,
+"midi": 53,
+"vel": 0.28,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 104.25,
+"midi": 57,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 104.5,
+"midi": 60,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 104.75,
+"midi": 65,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 105.0,
+"midi": 69,
+"vel": 0.28,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 105.25,
+"midi": 65,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 105.5,
+"midi": 60,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 105.75,
+"midi": 57,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 104.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 104.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 104.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 104.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 105.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 105.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 105.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 105.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 104.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 105.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 104.5,
+"midi": 0,
+"vel": 0.45,
+"dur": 0.125,
+"voice": "rim"
+},
+{
+"t": 105.5,
+"midi": 0,
+"vel": 0.45,
+"dur": 0.125,
+"voice": "rim"
+},
+{
+"t": 106.0,
+"midi": 43,
+"vel": 0.55,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 106.75,
+"midi": 43,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 107.0,
+"midi": 43,
+"vel": 0.5,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 107.75,
+"midi": 38,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 106.0,
+"midi": 55,
+"vel": 0.28,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 106.25,
+"midi": 59,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 106.5,
+"midi": 62,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 106.75,
+"midi": 67,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 107.0,
+"midi": 71,
+"vel": 0.28,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 107.25,
+"midi": 67,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 107.5,
+"midi": 62,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 107.75,
+"midi": 59,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 106.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 106.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 106.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 106.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 107.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 107.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 107.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 107.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 106.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 107.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 106.5,
+"midi": 0,
+"vel": 0.45,
+"dur": 0.125,
+"voice": "rim"
+},
+{
+"t": 107.5,
+"midi": 0,
+"vel": 0.45,
+"dur": 0.125,
+"voice": "rim"
+},
+{
+"t": 108.0,
+"midi": 38,
+"vel": 0.55,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 108.75,
+"midi": 38,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 109.0,
+"midi": 38,
+"vel": 0.5,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 109.75,
+"midi": 45,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 108.0,
+"midi": 50,
+"vel": 0.28,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 108.25,
+"midi": 53,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 108.5,
+"midi": 57,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 108.75,
+"midi": 62,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 109.0,
+"midi": 65,
+"vel": 0.28,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 109.25,
+"midi": 62,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 109.5,
+"midi": 57,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 109.75,
+"midi": 53,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 108.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 108.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 108.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 108.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 109.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 109.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 109.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 109.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 108.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 109.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 108.5,
+"midi": 0,
+"vel": 0.45,
+"dur": 0.125,
+"voice": "rim"
+},
+{
+"t": 109.5,
+"midi": 0,
+"vel": 0.45,
+"dur": 0.125,
+"voice": "rim"
+},
+{
+"t": 110.0,
+"midi": 45,
+"vel": 0.55,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 110.75,
+"midi": 45,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 111.0,
+"midi": 45,
+"vel": 0.5,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 111.75,
+"midi": 41,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 110.0,
+"midi": 57,
+"vel": 0.28,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 110.25,
+"midi": 60,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 110.5,
+"midi": 64,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 110.75,
+"midi": 69,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 111.0,
+"midi": 72,
+"vel": 0.28,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 111.25,
+"midi": 69,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 111.5,
+"midi": 64,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 111.75,
+"midi": 60,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 110.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 110.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 110.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 110.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 111.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 111.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 111.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 111.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 110.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 111.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 110.5,
+"midi": 0,
+"vel": 0.45,
+"dur": 0.125,
+"voice": "rim"
+},
+{
+"t": 111.5,
+"midi": 0,
+"vel": 0.45,
+"dur": 0.125,
+"voice": "rim"
+},
+{
+"t": 112.0,
+"midi": 41,
+"vel": 0.55,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 112.75,
+"midi": 41,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 113.0,
+"midi": 41,
+"vel": 0.5,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 113.75,
+"midi": 43,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 112.0,
+"midi": 53,
+"vel": 0.28,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 112.25,
+"midi": 57,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 112.5,
+"midi": 60,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 112.75,
+"midi": 65,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 113.0,
+"midi": 69,
+"vel": 0.28,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 113.25,
+"midi": 65,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 113.5,
+"midi": 60,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 113.75,
+"midi": 57,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 112.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 112.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 112.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 112.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 113.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 113.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 113.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 113.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 112.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 113.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 112.5,
+"midi": 0,
+"vel": 0.45,
+"dur": 0.125,
+"voice": "rim"
+},
+{
+"t": 113.5,
+"midi": 0,
+"vel": 0.45,
+"dur": 0.125,
+"voice": "rim"
+},
+{
+"t": 114.0,
+"midi": 43,
+"vel": 0.55,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 114.75,
+"midi": 43,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 115.0,
+"midi": 43,
+"vel": 0.5,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 115.75,
+"midi": 38,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 114.0,
+"midi": 55,
+"vel": 0.28,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 114.25,
+"midi": 59,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 114.5,
+"midi": 62,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 114.75,
+"midi": 67,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 115.0,
+"midi": 71,
+"vel": 0.28,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 115.25,
+"midi": 67,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 115.5,
+"midi": 62,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 115.75,
+"midi": 59,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 114.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 114.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 114.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 114.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 115.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 115.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 115.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 115.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 114.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 115.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 114.5,
+"midi": 0,
+"vel": 0.45,
+"dur": 0.125,
+"voice": "rim"
+},
+{
+"t": 115.5,
+"midi": 0,
+"vel": 0.45,
+"dur": 0.125,
+"voice": "rim"
+},
+{
+"t": 116.0,
+"midi": 38,
+"vel": 0.55,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 116.75,
+"midi": 38,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 117.0,
+"midi": 38,
+"vel": 0.5,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 117.75,
+"midi": 45,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 116.0,
+"midi": 50,
+"vel": 0.28,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 116.25,
+"midi": 53,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 116.5,
+"midi": 57,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 116.75,
+"midi": 62,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 117.0,
+"midi": 65,
+"vel": 0.28,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 117.25,
+"midi": 62,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 117.5,
+"midi": 57,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 117.75,
+"midi": 53,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 116.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 116.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 116.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 116.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 117.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 117.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 117.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 117.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 116.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 117.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 116.5,
+"midi": 0,
+"vel": 0.45,
+"dur": 0.125,
+"voice": "rim"
+},
+{
+"t": 117.5,
+"midi": 0,
+"vel": 0.45,
+"dur": 0.125,
+"voice": "rim"
+},
+{
+"t": 118.0,
+"midi": 45,
+"vel": 0.55,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 118.75,
+"midi": 45,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 119.0,
+"midi": 45,
+"vel": 0.5,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 119.75,
+"midi": 41,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 118.0,
+"midi": 57,
+"vel": 0.28,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 118.25,
+"midi": 60,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 118.5,
+"midi": 64,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 118.75,
+"midi": 69,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 119.0,
+"midi": 72,
+"vel": 0.28,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 119.25,
+"midi": 69,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 119.5,
+"midi": 64,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 119.75,
+"midi": 60,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 118.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 118.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 118.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 118.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 119.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 119.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 119.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 119.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 118.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 119.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 118.5,
+"midi": 0,
+"vel": 0.45,
+"dur": 0.125,
+"voice": "rim"
+},
+{
+"t": 119.5,
+"midi": 0,
+"vel": 0.45,
+"dur": 0.125,
+"voice": "rim"
+},
+{
+"t": 120.0,
+"midi": 41,
+"vel": 0.55,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 120.75,
+"midi": 41,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 121.0,
+"midi": 41,
+"vel": 0.5,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 121.75,
+"midi": 48,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 120.0,
+"midi": 53,
+"vel": 0.28,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 120.25,
+"midi": 57,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 120.5,
+"midi": 60,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 120.75,
+"midi": 65,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 121.0,
+"midi": 69,
+"vel": 0.28,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 121.25,
+"midi": 65,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 121.5,
+"midi": 60,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 121.75,
+"midi": 57,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 120.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 120.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 120.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 120.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 121.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 121.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 121.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 121.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 120.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 121.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 120.5,
+"midi": 0,
+"vel": 0.45,
+"dur": 0.125,
+"voice": "rim"
+},
+{
+"t": 121.5,
+"midi": 0,
+"vel": 0.45,
+"dur": 0.125,
+"voice": "rim"
+},
+{
+"t": 122.0,
+"midi": 48,
+"vel": 0.55,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 122.75,
+"midi": 48,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 123.0,
+"midi": 48,
+"vel": 0.5,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 123.75,
+"midi": 41,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 122.0,
+"midi": 48,
+"vel": 0.28,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 122.25,
+"midi": 52,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 122.5,
+"midi": 55,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 122.75,
+"midi": 60,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 123.0,
+"midi": 64,
+"vel": 0.28,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 123.25,
+"midi": 60,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 123.5,
+"midi": 55,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 123.75,
+"midi": 52,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 122.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 122.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 122.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 122.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 123.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 123.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 123.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 123.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 122.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 123.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 122.5,
+"midi": 0,
+"vel": 0.45,
+"dur": 0.125,
+"voice": "rim"
+},
+{
+"t": 123.5,
+"midi": 0,
+"vel": 0.45,
+"dur": 0.125,
+"voice": "rim"
+},
+{
+"t": 122.0,
+"midi": 67,
+"vel": 0.42,
+"dur": 0.625,
+"voice": "answer"
+},
+{
+"t": 122.5,
+"midi": 64,
+"vel": 0.38,
+"dur": 0.625,
+"voice": "answer"
+},
+{
+"t": 123.0,
+"midi": 60,
+"vel": 0.34,
+"dur": 0.625,
+"voice": "answer"
+},
+{
+"t": 123.5,
+"midi": 64,
+"vel": 0.3,
+"dur": 0.5,
+"voice": "answer"
+},
+{
+"t": 124.0,
+"midi": 41,
+"vel": 0.45,
+"dur": 2.0,
+"voice": "bass"
+},
+{
+"t": 126.0,
+"midi": 43,
+"vel": 0.45,
+"dur": 2.0,
+"voice": "bass"
+},
+{
+"t": 128.0,
+"midi": 41,
+"vel": 0.45,
+"dur": 2.0,
+"voice": "bass"
+},
+{
+"t": 130.0,
+"midi": 43,
+"vel": 0.45,
+"dur": 2.0,
+"voice": "bass"
+},
+{
+"t": 132.0,
+"midi": 41,
+"vel": 0.45,
+"dur": 2.0,
+"voice": "bass"
+},
+{
+"t": 134.0,
+"midi": 43,
+"vel": 0.45,
+"dur": 2.0,
+"voice": "bass"
+},
+{
+"t": 136.0,
+"midi": 41,
+"vel": 0.45,
+"dur": 2.0,
+"voice": "bass"
+},
+{
+"t": 136.0,
+"midi": 72,
+"vel": 0.42,
+"dur": 0.625,
+"voice": "answer"
+},
+{
+"t": 136.5,
+"midi": 69,
+"vel": 0.38,
+"dur": 0.625,
+"voice": "answer"
+},
+{
+"t": 137.0,
+"midi": 65,
+"vel": 0.34,
+"dur": 0.625,
+"voice": "answer"
+},
+{
+"t": 137.5,
+"midi": 66,
+"vel": 0.3,
+"dur": 0.5,
+"voice": "answer"
+},
+{
+"t": 138.0,
+"midi": 48,
+"vel": 0.45,
+"dur": 2.0,
+"voice": "bass"
+},
+{
+"t": 138.0,
+"midi": 67,
+"vel": 0.42,
+"dur": 0.625,
+"voice": "answer"
+},
+{
+"t": 138.5,
+"midi": 64,
+"vel": 0.38,
+"dur": 0.625,
+"voice": "answer"
+},
+{
+"t": 139.0,
+"midi": 60,
+"vel": 0.34,
+"dur": 0.625,
+"voice": "answer"
+},
+{
+"t": 139.5,
+"midi": 64,
+"vel": 0.3,
+"dur": 0.5,
+"voice": "answer"
+},
+{
+"t": 140.0,
+"midi": 41,
+"vel": 0.55,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 140.75,
+"midi": 41,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 141.0,
+"midi": 41,
+"vel": 0.5,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 141.75,
+"midi": 43,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 140.0,
+"midi": 53,
+"vel": 0.28,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 140.25,
+"midi": 57,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 140.5,
+"midi": 60,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 140.75,
+"midi": 65,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 141.0,
+"midi": 69,
+"vel": 0.28,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 141.25,
+"midi": 65,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 141.5,
+"midi": 60,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 141.75,
+"midi": 57,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 140.0,
+"midi": 53,
+"vel": 0.35,
+"dur": 1.875,
+"voice": "comp"
+},
+{
+"t": 140.0,
+"midi": 57,
+"vel": 0.35,
+"dur": 1.875,
+"voice": "comp"
+},
+{
+"t": 140.0,
+"midi": 60,
+"vel": 0.35,
+"dur": 1.875,
+"voice": "comp"
+},
+{
+"t": 140.0,
+"midi": 65,
+"vel": 0.35,
+"dur": 1.875,
+"voice": "comp"
+},
+{
+"t": 140.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 140.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 140.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 140.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 141.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 141.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 141.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 141.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 140.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 142.0,
+"midi": 43,
+"vel": 0.55,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 142.75,
+"midi": 43,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 143.0,
+"midi": 43,
+"vel": 0.5,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 143.75,
+"midi": 45,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 142.0,
+"midi": 55,
+"vel": 0.28,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 142.25,
+"midi": 59,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 142.5,
+"midi": 62,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 142.75,
+"midi": 67,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 143.0,
+"midi": 71,
+"vel": 0.28,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 143.25,
+"midi": 67,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 143.5,
+"midi": 62,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 143.75,
+"midi": 59,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 142.0,
+"midi": 55,
+"vel": 0.35,
+"dur": 1.875,
+"voice": "comp"
+},
+{
+"t": 142.0,
+"midi": 59,
+"vel": 0.35,
+"dur": 1.875,
+"voice": "comp"
+},
+{
+"t": 142.0,
+"midi": 62,
+"vel": 0.35,
+"dur": 1.875,
+"voice": "comp"
+},
+{
+"t": 142.0,
+"midi": 67,
+"vel": 0.35,
+"dur": 1.875,
+"voice": "comp"
+},
+{
+"t": 142.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 142.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 142.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 142.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 143.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 143.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 143.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 143.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 142.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 144.0,
+"midi": 45,
+"vel": 0.55,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 144.75,
+"midi": 45,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 145.0,
+"midi": 45,
+"vel": 0.5,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 145.75,
+"midi": 45,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 144.0,
+"midi": 57,
+"vel": 0.28,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 144.25,
+"midi": 62,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 144.5,
+"midi": 64,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 144.75,
+"midi": 69,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 145.0,
+"midi": 74,
+"vel": 0.28,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 145.25,
+"midi": 69,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 145.5,
+"midi": 64,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 145.75,
+"midi": 62,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 144.0,
+"midi": 57,
+"vel": 0.35,
+"dur": 1.875,
+"voice": "comp"
+},
+{
+"t": 144.0,
+"midi": 62,
+"vel": 0.35,
+"dur": 1.875,
+"voice": "comp"
+},
+{
+"t": 144.0,
+"midi": 64,
+"vel": 0.35,
+"dur": 1.875,
+"voice": "comp"
+},
+{
+"t": 144.0,
+"midi": 69,
+"vel": 0.35,
+"dur": 1.875,
+"voice": "comp"
+},
+{
+"t": 144.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 144.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 144.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 144.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 145.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 145.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 145.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 145.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 144.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 146.0,
+"midi": 45,
+"vel": 0.55,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 146.75,
+"midi": 45,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 147.0,
+"midi": 45,
+"vel": 0.5,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 147.75,
+"midi": 41,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 146.0,
+"midi": 57,
+"vel": 0.28,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 146.25,
+"midi": 61,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 146.5,
+"midi": 64,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 146.75,
+"midi": 69,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 147.0,
+"midi": 73,
+"vel": 0.28,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 147.25,
+"midi": 69,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 147.5,
+"midi": 64,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 147.75,
+"midi": 61,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 146.0,
+"midi": 57,
+"vel": 0.35,
+"dur": 1.875,
+"voice": "comp"
+},
+{
+"t": 146.0,
+"midi": 61,
+"vel": 0.35,
+"dur": 1.875,
+"voice": "comp"
+},
+{
+"t": 146.0,
+"midi": 64,
+"vel": 0.35,
+"dur": 1.875,
+"voice": "comp"
+},
+{
+"t": 146.0,
+"midi": 69,
+"vel": 0.35,
+"dur": 1.875,
+"voice": "comp"
+},
+{
+"t": 146.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 146.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 146.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 146.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 147.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 147.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 147.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 147.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 146.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 148.0,
+"midi": 41,
+"vel": 0.55,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 148.75,
+"midi": 41,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 149.0,
+"midi": 41,
+"vel": 0.5,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 149.75,
+"midi": 43,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 148.0,
+"midi": 53,
+"vel": 0.28,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 148.25,
+"midi": 57,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 148.5,
+"midi": 60,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 148.75,
+"midi": 65,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 149.0,
+"midi": 69,
+"vel": 0.28,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 149.25,
+"midi": 65,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 149.5,
+"midi": 60,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 149.75,
+"midi": 57,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 148.0,
+"midi": 53,
+"vel": 0.35,
+"dur": 1.875,
+"voice": "comp"
+},
+{
+"t": 148.0,
+"midi": 57,
+"vel": 0.35,
+"dur": 1.875,
+"voice": "comp"
+},
+{
+"t": 148.0,
+"midi": 60,
+"vel": 0.35,
+"dur": 1.875,
+"voice": "comp"
+},
+{
+"t": 148.0,
+"midi": 65,
+"vel": 0.35,
+"dur": 1.875,
+"voice": "comp"
+},
+{
+"t": 148.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 148.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 148.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 148.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 149.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 149.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 149.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 149.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 148.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 150.0,
+"midi": 43,
+"vel": 0.55,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 150.75,
+"midi": 43,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 151.0,
+"midi": 43,
+"vel": 0.5,
+"dur": 0.75,
+"voice": "bass"
+},
+{
+"t": 151.75,
+"midi": 41,
+"vel": 0.4,
+"dur": 0.25,
+"voice": "bass"
+},
+{
+"t": 150.0,
+"midi": 55,
+"vel": 0.28,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 150.25,
+"midi": 59,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 150.5,
+"midi": 62,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 150.75,
+"midi": 67,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 151.0,
+"midi": 71,
+"vel": 0.28,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 151.25,
+"midi": 67,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 151.5,
+"midi": 62,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 151.75,
+"midi": 59,
+"vel": 0.22,
+"dur": 0.275,
+"voice": "comp"
+},
+{
+"t": 150.0,
+"midi": 55,
+"vel": 0.35,
+"dur": 1.875,
+"voice": "comp"
+},
+{
+"t": 150.0,
+"midi": 59,
+"vel": 0.35,
+"dur": 1.875,
+"voice": "comp"
+},
+{
+"t": 150.0,
+"midi": 62,
+"vel": 0.35,
+"dur": 1.875,
+"voice": "comp"
+},
+{
+"t": 150.0,
+"midi": 67,
+"vel": 0.35,
+"dur": 1.875,
+"voice": "comp"
+},
+{
+"t": 150.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 150.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 150.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 150.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 151.0,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 151.25,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 151.5,
+"midi": 0,
+"vel": 0.5,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 151.75,
+"midi": 0,
+"vel": 0.35,
+"dur": 0.125,
+"voice": "shaker"
+},
+{
+"t": 150.0,
+"midi": 0,
+"vel": 0.6,
+"dur": 0.125,
+"voice": "kick"
+},
+{
+"t": 152.0,
+"midi": 41,
+"vel": 0.45,
+"dur": 2.0,
+"voice": "bass"
+},
+{
+"t": 152.0,
+"midi": 65,
+"vel": 0.42,
+"dur": 0.625,
+"voice": "answer"
+},
+{
+"t": 152.5,
+"midi": 69,
+"vel": 0.38,
+"dur": 0.625,
+"voice": "answer"
+},
+{
+"t": 153.0,
+"midi": 72,
+"vel": 0.34,
+"dur": 0.625,
+"voice": "answer"
+},
+{
+"t": 153.5,
+"midi": 72,
+"vel": 0.3,
+"dur": 0.5,
+"voice": "answer"
+},
+{
+"t": 154.0,
+"midi": 45,
+"vel": 0.45,
+"dur": 2.0,
+"voice": "bass"
+},
+{
+"t": 154.0,
+"midi": 69,
+"vel": 0.42,
+"dur": 0.625,
+"voice": "answer"
+},
+{
+"t": 154.5,
+"midi": 74,
+"vel": 0.38,
+"dur": 0.625,
+"voice": "answer"
+},
+{
+"t": 155.0,
+"midi": 76,
+"vel": 0.34,
+"dur": 0.625,
+"voice": "answer"
+},
+{
+"t": 155.5,
+"midi": 76,
+"vel": 0.3,
+"dur": 0.5,
+"voice": "answer"
+},
+{
+"t": 156.0,
+"midi": 45,
+"vel": 0.45,
+"dur": 2.0,
+"voice": "bass"
+},
+{
+"t": 156.0,
+"midi": 69,
+"vel": 0.42,
+"dur": 0.625,
+"voice": "answer"
+},
+{
+"t": 156.5,
+"midi": 73,
+"vel": 0.38,
+"dur": 0.625,
+"voice": "answer"
+},
+{
+"t": 157.0,
+"midi": 76,
+"vel": 0.34,
+"dur": 0.625,
+"voice": "answer"
+},
+{
+"t": 157.5,
+"midi": 76,
+"vel": 0.3,
+"dur": 0.5,
+"voice": "answer"
+},
+{
+"t": 158.0,
+"midi": 45,
+"vel": 0.45,
+"dur": 2.0,
+"voice": "bass"
+},
+{
+"t": 158.0,
+"midi": 69,
+"vel": 0.42,
+"dur": 0.625,
+"voice": "answer"
+},
+{
+"t": 158.5,
+"midi": 73,
+"vel": 0.38,
+"dur": 0.625,
+"voice": "answer"
+},
+{
+"t": 159.0,
+"midi": 76,
+"vel": 0.34,
+"dur": 0.625,
+"voice": "answer"
+},
+{
+"t": 159.5,
+"midi": 76,
+"vel": 0.3,
+"dur": 0.5,
+"voice": "answer"
+},
+{
+"t": 158.0,
+"midi": 45,
+"vel": 0.4,
+"dur": 4.0,
+"voice": "answer"
+},
+{
+"t": 158.0,
+"midi": 57,
+"vel": 0.4,
+"dur": 4.0,
+"voice": "answer"
+},
+{
+"t": 158.0,
+"midi": 61,
+"vel": 0.4,
+"dur": 4.0,
+"voice": "answer"
+},
+{
+"t": 158.0,
+"midi": 64,
+"vel": 0.4,
+"dur": 4.0,
+"voice": "answer"
+},
+{
+"t": 158.0,
+"midi": 69,
+"vel": 0.4,
+"dur": 4.0,
+"voice": "answer"
+},
+{
+"t": 158.0,
+"midi": 73,
+"vel": 0.4,
+"dur": 4.0,
+"voice": "answer"
+},
+{
+"t": 158.0,
+"midi": 76,
+"vel": 0.4,
+"dur": 4.0,
+"voice": "answer"
+}
+]
+}

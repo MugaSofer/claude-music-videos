@@ -1,0 +1,3363 @@
+{
+"bpm": 120,
+"unit": 0.125,
+"total": 149.75,
+"messages": [
+{
+"msg": 0,
+"sender": "light",
+"text": "WHO IS OUT THERE",
+"t0": 2.0,
+"t1": 17.75,
+"chord": [
+45,
+52,
+57,
+60,
+64
+],
+"letters": [
+{
+"ch": "W",
+"t_done": 3.125,
+"t0": 2.0,
+"word": 0
+},
+{
+"ch": "H",
+"t_done": 4.375,
+"t0": 3.5,
+"word": 0
+},
+{
+"ch": "O",
+"t_done": 6.125,
+"t0": 4.75,
+"word": 0
+},
+{
+"ch": "I",
+"t_done": 7.375,
+"t0": 7.0,
+"word": 1
+},
+{
+"ch": "S",
+"t_done": 8.375,
+"t0": 7.75,
+"word": 1
+},
+{
+"ch": "O",
+"t_done": 10.625,
+"t0": 9.25,
+"word": 2
+},
+{
+"ch": "U",
+"t_done": 11.875,
+"t0": 11.0,
+"word": 2
+},
+{
+"ch": "T",
+"t_done": 12.625,
+"t0": 12.25,
+"word": 2
+},
+{
+"ch": "T",
+"t_done": 13.875,
+"t0": 13.5,
+"word": 3
+},
+{
+"ch": "H",
+"t_done": 15.125,
+"t0": 14.25,
+"word": 3
+},
+{
+"ch": "E",
+"t_done": 15.625,
+"t0": 15.5,
+"word": 3
+},
+{
+"ch": "R",
+"t_done": 16.875,
+"t0": 16.0,
+"word": 3
+},
+{
+"ch": "E",
+"t_done": 17.375,
+"t0": 17.25,
+"word": 3
+}
+]
+},
+{
+"msg": 1,
+"sender": "boat",
+"text": "A SMALL BOAT AND A TIRED CREW",
+"t0": 19.5,
+"t1": 48.5,
+"chord": [
+41,
+48,
+57,
+60,
+65
+],
+"letters": [
+{
+"ch": "A",
+"t_done": 20.125,
+"t0": 19.5,
+"word": 0
+},
+{
+"ch": "S",
+"t_done": 21.625,
+"t0": 21.0,
+"word": 1
+},
+{
+"ch": "M",
+"t_done": 22.875,
+"t0": 22.0,
+"word": 1
+},
+{
+"ch": "A",
+"t_done": 23.875,
+"t0": 23.25,
+"word": 1
+},
+{
+"ch": "L",
+"t_done": 25.375,
+"t0": 24.25,
+"word": 1
+},
+{
+"ch": "L",
+"t_done": 26.875,
+"t0": 25.75,
+"word": 1
+},
+{
+"ch": "B",
+"t_done": 28.875,
+"t0": 27.75,
+"word": 2
+},
+{
+"ch": "O",
+"t_done": 30.625,
+"t0": 29.25,
+"word": 2
+},
+{
+"ch": "A",
+"t_done": 31.625,
+"t0": 31.0,
+"word": 2
+},
+{
+"ch": "T",
+"t_done": 32.375,
+"t0": 32.0,
+"word": 2
+},
+{
+"ch": "A",
+"t_done": 33.875,
+"t0": 33.25,
+"word": 3
+},
+{
+"ch": "N",
+"t_done": 34.875,
+"t0": 34.25,
+"word": 3
+},
+{
+"ch": "D",
+"t_done": 36.125,
+"t0": 35.25,
+"word": 3
+},
+{
+"ch": "A",
+"t_done": 37.625,
+"t0": 37.0,
+"word": 4
+},
+{
+"ch": "T",
+"t_done": 38.875,
+"t0": 38.5,
+"word": 5
+},
+{
+"ch": "I",
+"t_done": 39.625,
+"t0": 39.25,
+"word": 5
+},
+{
+"ch": "R",
+"t_done": 40.875,
+"t0": 40.0,
+"word": 5
+},
+{
+"ch": "E",
+"t_done": 41.375,
+"t0": 41.25,
+"word": 5
+},
+{
+"ch": "D",
+"t_done": 42.625,
+"t0": 41.75,
+"word": 5
+},
+{
+"ch": "C",
+"t_done": 44.875,
+"t0": 43.5,
+"word": 6
+},
+{
+"ch": "R",
+"t_done": 46.125,
+"t0": 45.25,
+"word": 6
+},
+{
+"ch": "E",
+"t_done": 46.625,
+"t0": 46.5,
+"word": 6
+},
+{
+"ch": "W",
+"t_done": 48.125,
+"t0": 47.0,
+"word": 6
+}
+]
+},
+{
+"msg": 2,
+"sender": "light",
+"text": "THE HARBOUR IS THIS WAY",
+"t0": 50.25,
+"t1": 74.0,
+"chord": [
+43,
+50,
+55,
+59,
+62
+],
+"letters": [
+{
+"ch": "T",
+"t_done": 50.625,
+"t0": 50.25,
+"word": 0
+},
+{
+"ch": "H",
+"t_done": 51.875,
+"t0": 51.0,
+"word": 0
+},
+{
+"ch": "E",
+"t_done": 52.375,
+"t0": 52.25,
+"word": 0
+},
+{
+"ch": "H",
+"t_done": 54.125,
+"t0": 53.25,
+"word": 1
+},
+{
+"ch": "A",
+"t_done": 55.125,
+"t0": 54.5,
+"word": 1
+},
+{
+"ch": "R",
+"t_done": 56.375,
+"t0": 55.5,
+"word": 1
+},
+{
+"ch": "B",
+"t_done": 57.875,
+"t0": 56.75,
+"word": 1
+},
+{
+"ch": "O",
+"t_done": 59.625,
+"t0": 58.25,
+"word": 1
+},
+{
+"ch": "U",
+"t_done": 60.875,
+"t0": 60.0,
+"word": 1
+},
+{
+"ch": "R",
+"t_done": 62.125,
+"t0": 61.25,
+"word": 1
+},
+{
+"ch": "I",
+"t_done": 63.375,
+"t0": 63.0,
+"word": 2
+},
+{
+"ch": "S",
+"t_done": 64.375,
+"t0": 63.75,
+"word": 2
+},
+{
+"ch": "T",
+"t_done": 65.625,
+"t0": 65.25,
+"word": 3
+},
+{
+"ch": "H",
+"t_done": 66.875,
+"t0": 66.0,
+"word": 3
+},
+{
+"ch": "I",
+"t_done": 67.625,
+"t0": 67.25,
+"word": 3
+},
+{
+"ch": "S",
+"t_done": 68.625,
+"t0": 68.0,
+"word": 3
+},
+{
+"ch": "W",
+"t_done": 70.625,
+"t0": 69.5,
+"word": 4
+},
+{
+"ch": "A",
+"t_done": 71.625,
+"t0": 71.0,
+"word": 4
+},
+{
+"ch": "Y",
+"t_done": 73.625,
+"t0": 72.0,
+"word": 4
+}
+]
+},
+{
+"msg": 3,
+"sender": "boat",
+"text": "WE SEE YOUR LIGHT",
+"t0": 75.75,
+"t1": 93.25,
+"chord": [
+45,
+52,
+57,
+60,
+64
+],
+"letters": [
+{
+"ch": "W",
+"t_done": 76.875,
+"t0": 75.75,
+"word": 0
+},
+{
+"ch": "E",
+"t_done": 77.375,
+"t0": 77.25,
+"word": 0
+},
+{
+"ch": "S",
+"t_done": 78.875,
+"t0": 78.25,
+"word": 1
+},
+{
+"ch": "E",
+"t_done": 79.375,
+"t0": 79.25,
+"word": 1
+},
+{
+"ch": "E",
+"t_done": 79.875,
+"t0": 79.75,
+"word": 1
+},
+{
+"ch": "Y",
+"t_done": 82.375,
+"t0": 80.75,
+"word": 2
+},
+{
+"ch": "O",
+"t_done": 84.125,
+"t0": 82.75,
+"word": 2
+},
+{
+"ch": "U",
+"t_done": 85.375,
+"t0": 84.5,
+"word": 2
+},
+{
+"ch": "R",
+"t_done": 86.625,
+"t0": 85.75,
+"word": 2
+},
+{
+"ch": "L",
+"t_done": 88.625,
+"t0": 87.5,
+"word": 3
+},
+{
+"ch": "I",
+"t_done": 89.375,
+"t0": 89.0,
+"word": 3
+},
+{
+"ch": "G",
+"t_done": 90.875,
+"t0": 89.75,
+"word": 3
+},
+{
+"ch": "H",
+"t_done": 92.125,
+"t0": 91.25,
+"word": 3
+},
+{
+"ch": "T",
+"t_done": 92.875,
+"t0": 92.5,
+"word": 3
+}
+]
+},
+{
+"msg": 4,
+"sender": "light",
+"text": "KEEP IT ON YOUR LEFT",
+"t0": 95.0,
+"t1": 116.0,
+"chord": [
+38,
+45,
+53,
+57,
+60
+],
+"letters": [
+{
+"ch": "K",
+"t_done": 96.125,
+"t0": 95.0,
+"word": 0
+},
+{
+"ch": "E",
+"t_done": 96.625,
+"t0": 96.5,
+"word": 0
+},
+{
+"ch": "E",
+"t_done": 97.125,
+"t0": 97.0,
+"word": 0
+},
+{
+"ch": "P",
+"t_done": 98.875,
+"t0": 97.5,
+"word": 0
+},
+{
+"ch": "I",
+"t_done": 100.125,
+"t0": 99.75,
+"word": 1
+},
+{
+"ch": "T",
+"t_done": 100.875,
+"t0": 100.5,
+"word": 1
+},
+{
+"ch": "O",
+"t_done": 103.125,
+"t0": 101.75,
+"word": 2
+},
+{
+"ch": "N",
+"t_done": 104.125,
+"t0": 103.5,
+"word": 2
+},
+{
+"ch": "Y",
+"t_done": 106.625,
+"t0": 105.0,
+"word": 3
+},
+{
+"ch": "O",
+"t_done": 108.375,
+"t0": 107.0,
+"word": 3
+},
+{
+"ch": "U",
+"t_done": 109.625,
+"t0": 108.75,
+"word": 3
+},
+{
+"ch": "R",
+"t_done": 110.875,
+"t0": 110.0,
+"word": 3
+},
+{
+"ch": "L",
+"t_done": 112.875,
+"t0": 111.75,
+"word": 4
+},
+{
+"ch": "E",
+"t_done": 113.375,
+"t0": 113.25,
+"word": 4
+},
+{
+"ch": "F",
+"t_done": 114.875,
+"t0": 113.75,
+"word": 4
+},
+{
+"ch": "T",
+"t_done": 115.625,
+"t0": 115.25,
+"word": 4
+}
+]
+},
+{
+"msg": 5,
+"sender": "boat",
+"text": "THANK YOU",
+"t0": 117.75,
+"t1": 128.75,
+"chord": [
+40,
+47,
+55,
+59,
+62
+],
+"letters": [
+{
+"ch": "T",
+"t_done": 118.125,
+"t0": 117.75,
+"word": 0
+},
+{
+"ch": "H",
+"t_done": 119.375,
+"t0": 118.5,
+"word": 0
+},
+{
+"ch": "A",
+"t_done": 120.375,
+"t0": 119.75,
+"word": 0
+},
+{
+"ch": "N",
+"t_done": 121.375,
+"t0": 120.75,
+"word": 0
+},
+{
+"ch": "K",
+"t_done": 122.875,
+"t0": 121.75,
+"word": 0
+},
+{
+"ch": "Y",
+"t_done": 125.375,
+"t0": 123.75,
+"word": 1
+},
+{
+"ch": "O",
+"t_done": 127.125,
+"t0": 125.75,
+"word": 1
+},
+{
+"ch": "U",
+"t_done": 128.375,
+"t0": 127.5,
+"word": 1
+}
+]
+},
+{
+"msg": 6,
+"sender": "both",
+"text": "GOODNIGHT",
+"t0": 130.5,
+"t1": 142.0,
+"chord": [
+45,
+52,
+57,
+61,
+64
+],
+"letters": [
+{
+"ch": "G",
+"t_done": 131.625,
+"t0": 130.5,
+"word": 0
+},
+{
+"ch": "O",
+"t_done": 133.375,
+"t0": 132.0,
+"word": 0
+},
+{
+"ch": "O",
+"t_done": 135.125,
+"t0": 133.75,
+"word": 0
+},
+{
+"ch": "D",
+"t_done": 136.375,
+"t0": 135.5,
+"word": 0
+},
+{
+"ch": "N",
+"t_done": 137.375,
+"t0": 136.75,
+"word": 0
+},
+{
+"ch": "I",
+"t_done": 138.125,
+"t0": 137.75,
+"word": 0
+},
+{
+"ch": "G",
+"t_done": 139.625,
+"t0": 138.5,
+"word": 0
+},
+{
+"ch": "H",
+"t_done": 140.875,
+"t0": 140.0,
+"word": 0
+},
+{
+"ch": "T",
+"t_done": 141.625,
+"t0": 141.25,
+"word": 0
+}
+]
+}
+],
+"events": [
+{
+"t": 2.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 0,
+"ch": "W",
+"sym": ".",
+"midi": 64
+},
+{
+"t": 2.25,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 0,
+"ch": "W",
+"sym": "-",
+"midi": 64
+},
+{
+"t": 2.75,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 0,
+"ch": "W",
+"sym": "-",
+"midi": 64
+},
+{
+"t": 3.5,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 0,
+"ch": "H",
+"sym": ".",
+"midi": 50
+},
+{
+"t": 3.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 0,
+"ch": "H",
+"sym": ".",
+"midi": 50
+},
+{
+"t": 4.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 0,
+"ch": "H",
+"sym": ".",
+"midi": 50
+},
+{
+"t": 4.25,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 0,
+"ch": "H",
+"sym": ".",
+"midi": 50
+},
+{
+"t": 4.75,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 0,
+"ch": "O",
+"sym": "-",
+"midi": 57
+},
+{
+"t": 5.25,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 0,
+"ch": "O",
+"sym": "-",
+"midi": 57
+},
+{
+"t": 5.75,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 0,
+"ch": "O",
+"sym": "-",
+"midi": 57
+},
+{
+"t": 7.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 0,
+"ch": "I",
+"sym": ".",
+"midi": 52
+},
+{
+"t": 7.25,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 0,
+"ch": "I",
+"sym": ".",
+"midi": 52
+},
+{
+"t": 7.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 0,
+"ch": "S",
+"sym": ".",
+"midi": 60
+},
+{
+"t": 8.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 0,
+"ch": "S",
+"sym": ".",
+"midi": 60
+},
+{
+"t": 8.25,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 0,
+"ch": "S",
+"sym": ".",
+"midi": 60
+},
+{
+"t": 9.25,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 0,
+"ch": "O",
+"sym": "-",
+"midi": 57
+},
+{
+"t": 9.75,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 0,
+"ch": "O",
+"sym": "-",
+"midi": 57
+},
+{
+"t": 10.25,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 0,
+"ch": "O",
+"sym": "-",
+"midi": 57
+},
+{
+"t": 11.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 0,
+"ch": "U",
+"sym": ".",
+"midi": 62
+},
+{
+"t": 11.25,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 0,
+"ch": "U",
+"sym": ".",
+"midi": 62
+},
+{
+"t": 11.5,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 0,
+"ch": "U",
+"sym": "-",
+"midi": 62
+},
+{
+"t": 12.25,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 0,
+"ch": "T",
+"sym": "-",
+"midi": 62
+},
+{
+"t": 13.5,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 0,
+"ch": "T",
+"sym": "-",
+"midi": 62
+},
+{
+"t": 14.25,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 0,
+"ch": "H",
+"sym": ".",
+"midi": 50
+},
+{
+"t": 14.5,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 0,
+"ch": "H",
+"sym": ".",
+"midi": 50
+},
+{
+"t": 14.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 0,
+"ch": "H",
+"sym": ".",
+"midi": 50
+},
+{
+"t": 15.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 0,
+"ch": "H",
+"sym": ".",
+"midi": 50
+},
+{
+"t": 15.5,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 0,
+"ch": "E",
+"sym": ".",
+"midi": 48
+},
+{
+"t": 16.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 0,
+"ch": "R",
+"sym": ".",
+"midi": 60
+},
+{
+"t": 16.25,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 0,
+"ch": "R",
+"sym": "-",
+"midi": 60
+},
+{
+"t": 16.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 0,
+"ch": "R",
+"sym": ".",
+"midi": 60
+},
+{
+"t": 17.25,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 0,
+"ch": "E",
+"sym": ".",
+"midi": 48
+},
+{
+"t": 19.5,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "A",
+"sym": ".",
+"midi": 57
+},
+{
+"t": 19.75,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "A",
+"sym": "-",
+"midi": 57
+},
+{
+"t": 21.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "S",
+"sym": ".",
+"midi": 72
+},
+{
+"t": 21.25,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "S",
+"sym": ".",
+"midi": 72
+},
+{
+"t": 21.5,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "S",
+"sym": ".",
+"midi": 72
+},
+{
+"t": 22.0,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "M",
+"sym": "-",
+"midi": 67
+},
+{
+"t": 22.5,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "M",
+"sym": "-",
+"midi": 67
+},
+{
+"t": 23.25,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "A",
+"sym": ".",
+"midi": 57
+},
+{
+"t": 23.5,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "A",
+"sym": "-",
+"midi": 57
+},
+{
+"t": 24.25,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "L",
+"sym": ".",
+"midi": 67
+},
+{
+"t": 24.5,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "L",
+"sym": "-",
+"midi": 67
+},
+{
+"t": 25.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "L",
+"sym": ".",
+"midi": 67
+},
+{
+"t": 25.25,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "L",
+"sym": ".",
+"midi": 67
+},
+{
+"t": 25.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "L",
+"sym": ".",
+"midi": 67
+},
+{
+"t": 26.0,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "L",
+"sym": "-",
+"midi": 67
+},
+{
+"t": 26.5,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "L",
+"sym": ".",
+"midi": 67
+},
+{
+"t": 26.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "L",
+"sym": ".",
+"midi": 67
+},
+{
+"t": 27.75,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "B",
+"sym": "-",
+"midi": 57
+},
+{
+"t": 28.25,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "B",
+"sym": ".",
+"midi": 57
+},
+{
+"t": 28.5,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "B",
+"sym": ".",
+"midi": 57
+},
+{
+"t": 28.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "B",
+"sym": ".",
+"midi": 57
+},
+{
+"t": 29.25,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "O",
+"sym": "-",
+"midi": 69
+},
+{
+"t": 29.75,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "O",
+"sym": "-",
+"midi": 69
+},
+{
+"t": 30.25,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "O",
+"sym": "-",
+"midi": 69
+},
+{
+"t": 31.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "A",
+"sym": ".",
+"midi": 57
+},
+{
+"t": 31.25,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "A",
+"sym": "-",
+"midi": 57
+},
+{
+"t": 32.0,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "T",
+"sym": "-",
+"midi": 74
+},
+{
+"t": 33.25,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "A",
+"sym": ".",
+"midi": 57
+},
+{
+"t": 33.5,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "A",
+"sym": "-",
+"midi": 57
+},
+{
+"t": 34.25,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "N",
+"sym": "-",
+"midi": 69
+},
+{
+"t": 34.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "N",
+"sym": ".",
+"midi": 69
+},
+{
+"t": 35.25,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "D",
+"sym": "-",
+"midi": 60
+},
+{
+"t": 35.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "D",
+"sym": ".",
+"midi": 60
+},
+{
+"t": 36.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "D",
+"sym": ".",
+"midi": 60
+},
+{
+"t": 37.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "A",
+"sym": ".",
+"midi": 57
+},
+{
+"t": 37.25,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "A",
+"sym": "-",
+"midi": 57
+},
+{
+"t": 38.5,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "T",
+"sym": "-",
+"midi": 74
+},
+{
+"t": 39.25,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "I",
+"sym": ".",
+"midi": 64
+},
+{
+"t": 39.5,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "I",
+"sym": ".",
+"midi": 64
+},
+{
+"t": 40.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "R",
+"sym": ".",
+"midi": 72
+},
+{
+"t": 40.25,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "R",
+"sym": "-",
+"midi": 72
+},
+{
+"t": 40.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "R",
+"sym": ".",
+"midi": 72
+},
+{
+"t": 41.25,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "E",
+"sym": ".",
+"midi": 60
+},
+{
+"t": 41.75,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "D",
+"sym": "-",
+"midi": 60
+},
+{
+"t": 42.25,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "D",
+"sym": ".",
+"midi": 60
+},
+{
+"t": 42.5,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "D",
+"sym": ".",
+"midi": 60
+},
+{
+"t": 43.5,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "C",
+"sym": "-",
+"midi": 57
+},
+{
+"t": 44.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "C",
+"sym": ".",
+"midi": 57
+},
+{
+"t": 44.25,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "C",
+"sym": "-",
+"midi": 57
+},
+{
+"t": 44.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "C",
+"sym": ".",
+"midi": 57
+},
+{
+"t": 45.25,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "R",
+"sym": ".",
+"midi": 72
+},
+{
+"t": 45.5,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "R",
+"sym": "-",
+"midi": 72
+},
+{
+"t": 46.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "R",
+"sym": ".",
+"midi": 72
+},
+{
+"t": 46.5,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "E",
+"sym": ".",
+"midi": 60
+},
+{
+"t": 47.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "W",
+"sym": ".",
+"midi": 76
+},
+{
+"t": 47.25,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "W",
+"sym": "-",
+"midi": 76
+},
+{
+"t": 47.75,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 1,
+"ch": "W",
+"sym": "-",
+"midi": 76
+},
+{
+"t": 50.25,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "T",
+"sym": "-",
+"midi": 62
+},
+{
+"t": 51.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "H",
+"sym": ".",
+"midi": 50
+},
+{
+"t": 51.25,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "H",
+"sym": ".",
+"midi": 50
+},
+{
+"t": 51.5,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "H",
+"sym": ".",
+"midi": 50
+},
+{
+"t": 51.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "H",
+"sym": ".",
+"midi": 50
+},
+{
+"t": 52.25,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "E",
+"sym": ".",
+"midi": 48
+},
+{
+"t": 53.25,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "H",
+"sym": ".",
+"midi": 50
+},
+{
+"t": 53.5,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "H",
+"sym": ".",
+"midi": 50
+},
+{
+"t": 53.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "H",
+"sym": ".",
+"midi": 50
+},
+{
+"t": 54.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "H",
+"sym": ".",
+"midi": 50
+},
+{
+"t": 54.5,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "A",
+"sym": ".",
+"midi": 45
+},
+{
+"t": 54.75,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "A",
+"sym": "-",
+"midi": 45
+},
+{
+"t": 55.5,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "R",
+"sym": ".",
+"midi": 60
+},
+{
+"t": 55.75,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "R",
+"sym": "-",
+"midi": 60
+},
+{
+"t": 56.25,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "R",
+"sym": ".",
+"midi": 60
+},
+{
+"t": 56.75,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "B",
+"sym": "-",
+"midi": 45
+},
+{
+"t": 57.25,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "B",
+"sym": ".",
+"midi": 45
+},
+{
+"t": 57.5,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "B",
+"sym": ".",
+"midi": 45
+},
+{
+"t": 57.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "B",
+"sym": ".",
+"midi": 45
+},
+{
+"t": 58.25,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "O",
+"sym": "-",
+"midi": 57
+},
+{
+"t": 58.75,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "O",
+"sym": "-",
+"midi": 57
+},
+{
+"t": 59.25,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "O",
+"sym": "-",
+"midi": 57
+},
+{
+"t": 60.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "U",
+"sym": ".",
+"midi": 62
+},
+{
+"t": 60.25,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "U",
+"sym": ".",
+"midi": 62
+},
+{
+"t": 60.5,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "U",
+"sym": "-",
+"midi": 62
+},
+{
+"t": 61.25,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "R",
+"sym": ".",
+"midi": 60
+},
+{
+"t": 61.5,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "R",
+"sym": "-",
+"midi": 60
+},
+{
+"t": 62.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "R",
+"sym": ".",
+"midi": 60
+},
+{
+"t": 63.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "I",
+"sym": ".",
+"midi": 52
+},
+{
+"t": 63.25,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "I",
+"sym": ".",
+"midi": 52
+},
+{
+"t": 63.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "S",
+"sym": ".",
+"midi": 60
+},
+{
+"t": 64.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "S",
+"sym": ".",
+"midi": 60
+},
+{
+"t": 64.25,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "S",
+"sym": ".",
+"midi": 60
+},
+{
+"t": 65.25,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "T",
+"sym": "-",
+"midi": 62
+},
+{
+"t": 66.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "H",
+"sym": ".",
+"midi": 50
+},
+{
+"t": 66.25,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "H",
+"sym": ".",
+"midi": 50
+},
+{
+"t": 66.5,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "H",
+"sym": ".",
+"midi": 50
+},
+{
+"t": 66.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "H",
+"sym": ".",
+"midi": 50
+},
+{
+"t": 67.25,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "I",
+"sym": ".",
+"midi": 52
+},
+{
+"t": 67.5,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "I",
+"sym": ".",
+"midi": 52
+},
+{
+"t": 68.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "S",
+"sym": ".",
+"midi": 60
+},
+{
+"t": 68.25,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "S",
+"sym": ".",
+"midi": 60
+},
+{
+"t": 68.5,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "S",
+"sym": ".",
+"midi": 60
+},
+{
+"t": 69.5,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "W",
+"sym": ".",
+"midi": 64
+},
+{
+"t": 69.75,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "W",
+"sym": "-",
+"midi": 64
+},
+{
+"t": 70.25,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "W",
+"sym": "-",
+"midi": 64
+},
+{
+"t": 71.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "A",
+"sym": ".",
+"midi": 45
+},
+{
+"t": 71.25,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "A",
+"sym": "-",
+"midi": 45
+},
+{
+"t": 72.0,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "Y",
+"sym": "-",
+"midi": 67
+},
+{
+"t": 72.5,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "Y",
+"sym": ".",
+"midi": 67
+},
+{
+"t": 72.75,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "Y",
+"sym": "-",
+"midi": 67
+},
+{
+"t": 73.25,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 2,
+"ch": "Y",
+"sym": "-",
+"midi": 67
+},
+{
+"t": 75.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 3,
+"ch": "W",
+"sym": ".",
+"midi": 76
+},
+{
+"t": 76.0,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 3,
+"ch": "W",
+"sym": "-",
+"midi": 76
+},
+{
+"t": 76.5,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 3,
+"ch": "W",
+"sym": "-",
+"midi": 76
+},
+{
+"t": 77.25,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 3,
+"ch": "E",
+"sym": ".",
+"midi": 60
+},
+{
+"t": 78.25,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 3,
+"ch": "S",
+"sym": ".",
+"midi": 72
+},
+{
+"t": 78.5,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 3,
+"ch": "S",
+"sym": ".",
+"midi": 72
+},
+{
+"t": 78.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 3,
+"ch": "S",
+"sym": ".",
+"midi": 72
+},
+{
+"t": 79.25,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 3,
+"ch": "E",
+"sym": ".",
+"midi": 60
+},
+{
+"t": 79.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 3,
+"ch": "E",
+"sym": ".",
+"midi": 60
+},
+{
+"t": 80.75,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 3,
+"ch": "Y",
+"sym": "-",
+"midi": 79
+},
+{
+"t": 81.25,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 3,
+"ch": "Y",
+"sym": ".",
+"midi": 79
+},
+{
+"t": 81.5,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 3,
+"ch": "Y",
+"sym": "-",
+"midi": 79
+},
+{
+"t": 82.0,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 3,
+"ch": "Y",
+"sym": "-",
+"midi": 79
+},
+{
+"t": 82.75,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 3,
+"ch": "O",
+"sym": "-",
+"midi": 69
+},
+{
+"t": 83.25,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 3,
+"ch": "O",
+"sym": "-",
+"midi": 69
+},
+{
+"t": 83.75,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 3,
+"ch": "O",
+"sym": "-",
+"midi": 69
+},
+{
+"t": 84.5,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 3,
+"ch": "U",
+"sym": ".",
+"midi": 74
+},
+{
+"t": 84.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 3,
+"ch": "U",
+"sym": ".",
+"midi": 74
+},
+{
+"t": 85.0,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 3,
+"ch": "U",
+"sym": "-",
+"midi": 74
+},
+{
+"t": 85.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 3,
+"ch": "R",
+"sym": ".",
+"midi": 72
+},
+{
+"t": 86.0,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 3,
+"ch": "R",
+"sym": "-",
+"midi": 72
+},
+{
+"t": 86.5,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 3,
+"ch": "R",
+"sym": ".",
+"midi": 72
+},
+{
+"t": 87.5,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 3,
+"ch": "L",
+"sym": ".",
+"midi": 67
+},
+{
+"t": 87.75,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 3,
+"ch": "L",
+"sym": "-",
+"midi": 67
+},
+{
+"t": 88.25,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 3,
+"ch": "L",
+"sym": ".",
+"midi": 67
+},
+{
+"t": 88.5,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 3,
+"ch": "L",
+"sym": ".",
+"midi": 67
+},
+{
+"t": 89.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 3,
+"ch": "I",
+"sym": ".",
+"midi": 64
+},
+{
+"t": 89.25,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 3,
+"ch": "I",
+"sym": ".",
+"midi": 64
+},
+{
+"t": 89.75,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 3,
+"ch": "G",
+"sym": "-",
+"midi": 62
+},
+{
+"t": 90.25,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 3,
+"ch": "G",
+"sym": "-",
+"midi": 62
+},
+{
+"t": 90.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 3,
+"ch": "G",
+"sym": ".",
+"midi": 62
+},
+{
+"t": 91.25,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 3,
+"ch": "H",
+"sym": ".",
+"midi": 62
+},
+{
+"t": 91.5,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 3,
+"ch": "H",
+"sym": ".",
+"midi": 62
+},
+{
+"t": 91.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 3,
+"ch": "H",
+"sym": ".",
+"midi": 62
+},
+{
+"t": 92.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 3,
+"ch": "H",
+"sym": ".",
+"midi": 62
+},
+{
+"t": 92.5,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 3,
+"ch": "T",
+"sym": "-",
+"midi": 74
+},
+{
+"t": 95.0,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "K",
+"sym": "-",
+"midi": 52
+},
+{
+"t": 95.5,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "K",
+"sym": ".",
+"midi": 52
+},
+{
+"t": 95.75,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "K",
+"sym": "-",
+"midi": 52
+},
+{
+"t": 96.5,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "E",
+"sym": ".",
+"midi": 48
+},
+{
+"t": 97.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "E",
+"sym": ".",
+"midi": 48
+},
+{
+"t": 97.5,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "P",
+"sym": ".",
+"midi": 57
+},
+{
+"t": 97.75,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "P",
+"sym": "-",
+"midi": 57
+},
+{
+"t": 98.25,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "P",
+"sym": "-",
+"midi": 57
+},
+{
+"t": 98.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "P",
+"sym": ".",
+"midi": 57
+},
+{
+"t": 99.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "I",
+"sym": ".",
+"midi": 52
+},
+{
+"t": 100.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "I",
+"sym": ".",
+"midi": 52
+},
+{
+"t": 100.5,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "T",
+"sym": "-",
+"midi": 62
+},
+{
+"t": 101.75,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "O",
+"sym": "-",
+"midi": 57
+},
+{
+"t": 102.25,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "O",
+"sym": "-",
+"midi": 57
+},
+{
+"t": 102.75,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "O",
+"sym": "-",
+"midi": 57
+},
+{
+"t": 103.5,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "N",
+"sym": "-",
+"midi": 57
+},
+{
+"t": 104.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "N",
+"sym": ".",
+"midi": 57
+},
+{
+"t": 105.0,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "Y",
+"sym": "-",
+"midi": 67
+},
+{
+"t": 105.5,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "Y",
+"sym": ".",
+"midi": 67
+},
+{
+"t": 105.75,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "Y",
+"sym": "-",
+"midi": 67
+},
+{
+"t": 106.25,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "Y",
+"sym": "-",
+"midi": 67
+},
+{
+"t": 107.0,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "O",
+"sym": "-",
+"midi": 57
+},
+{
+"t": 107.5,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "O",
+"sym": "-",
+"midi": 57
+},
+{
+"t": 108.0,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "O",
+"sym": "-",
+"midi": 57
+},
+{
+"t": 108.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "U",
+"sym": ".",
+"midi": 62
+},
+{
+"t": 109.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "U",
+"sym": ".",
+"midi": 62
+},
+{
+"t": 109.25,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "U",
+"sym": "-",
+"midi": 62
+},
+{
+"t": 110.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "R",
+"sym": ".",
+"midi": 60
+},
+{
+"t": 110.25,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "R",
+"sym": "-",
+"midi": 60
+},
+{
+"t": 110.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "R",
+"sym": ".",
+"midi": 60
+},
+{
+"t": 111.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "L",
+"sym": ".",
+"midi": 55
+},
+{
+"t": 112.0,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "L",
+"sym": "-",
+"midi": 55
+},
+{
+"t": 112.5,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "L",
+"sym": ".",
+"midi": 55
+},
+{
+"t": 112.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "L",
+"sym": ".",
+"midi": 55
+},
+{
+"t": 113.25,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "E",
+"sym": ".",
+"midi": 48
+},
+{
+"t": 113.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "F",
+"sym": ".",
+"midi": 48
+},
+{
+"t": 114.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "F",
+"sym": ".",
+"midi": 48
+},
+{
+"t": 114.25,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "F",
+"sym": "-",
+"midi": 48
+},
+{
+"t": 114.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "F",
+"sym": ".",
+"midi": 48
+},
+{
+"t": 115.25,
+"dur": 0.375,
+"kind": "mark",
+"sender": "light",
+"msg": 4,
+"ch": "T",
+"sym": "-",
+"midi": 62
+},
+{
+"t": 117.75,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 5,
+"ch": "T",
+"sym": "-",
+"midi": 74
+},
+{
+"t": 118.5,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 5,
+"ch": "H",
+"sym": ".",
+"midi": 62
+},
+{
+"t": 118.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 5,
+"ch": "H",
+"sym": ".",
+"midi": 62
+},
+{
+"t": 119.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 5,
+"ch": "H",
+"sym": ".",
+"midi": 62
+},
+{
+"t": 119.25,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 5,
+"ch": "H",
+"sym": ".",
+"midi": 62
+},
+{
+"t": 119.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 5,
+"ch": "A",
+"sym": ".",
+"midi": 57
+},
+{
+"t": 120.0,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 5,
+"ch": "A",
+"sym": "-",
+"midi": 57
+},
+{
+"t": 120.75,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 5,
+"ch": "N",
+"sym": "-",
+"midi": 69
+},
+{
+"t": 121.25,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 5,
+"ch": "N",
+"sym": ".",
+"midi": 69
+},
+{
+"t": 121.75,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 5,
+"ch": "K",
+"sym": "-",
+"midi": 64
+},
+{
+"t": 122.25,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 5,
+"ch": "K",
+"sym": ".",
+"midi": 64
+},
+{
+"t": 122.5,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 5,
+"ch": "K",
+"sym": "-",
+"midi": 64
+},
+{
+"t": 123.75,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 5,
+"ch": "Y",
+"sym": "-",
+"midi": 79
+},
+{
+"t": 124.25,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 5,
+"ch": "Y",
+"sym": ".",
+"midi": 79
+},
+{
+"t": 124.5,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 5,
+"ch": "Y",
+"sym": "-",
+"midi": 79
+},
+{
+"t": 125.0,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 5,
+"ch": "Y",
+"sym": "-",
+"midi": 79
+},
+{
+"t": 125.75,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 5,
+"ch": "O",
+"sym": "-",
+"midi": 69
+},
+{
+"t": 126.25,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 5,
+"ch": "O",
+"sym": "-",
+"midi": 69
+},
+{
+"t": 126.75,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 5,
+"ch": "O",
+"sym": "-",
+"midi": 69
+},
+{
+"t": 127.5,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 5,
+"ch": "U",
+"sym": ".",
+"midi": 74
+},
+{
+"t": 127.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "boat",
+"msg": 5,
+"ch": "U",
+"sym": ".",
+"midi": 74
+},
+{
+"t": 128.0,
+"dur": 0.375,
+"kind": "mark",
+"sender": "boat",
+"msg": 5,
+"ch": "U",
+"sym": "-",
+"midi": 74
+},
+{
+"t": 130.5,
+"dur": 0.375,
+"kind": "mark",
+"sender": "both",
+"msg": 6,
+"ch": "G",
+"sym": "-",
+"midi": 50
+},
+{
+"t": 131.0,
+"dur": 0.375,
+"kind": "mark",
+"sender": "both",
+"msg": 6,
+"ch": "G",
+"sym": "-",
+"midi": 50
+},
+{
+"t": 131.5,
+"dur": 0.125,
+"kind": "mark",
+"sender": "both",
+"msg": 6,
+"ch": "G",
+"sym": ".",
+"midi": 50
+},
+{
+"t": 132.0,
+"dur": 0.375,
+"kind": "mark",
+"sender": "both",
+"msg": 6,
+"ch": "O",
+"sym": "-",
+"midi": 57
+},
+{
+"t": 132.5,
+"dur": 0.375,
+"kind": "mark",
+"sender": "both",
+"msg": 6,
+"ch": "O",
+"sym": "-",
+"midi": 57
+},
+{
+"t": 133.0,
+"dur": 0.375,
+"kind": "mark",
+"sender": "both",
+"msg": 6,
+"ch": "O",
+"sym": "-",
+"midi": 57
+},
+{
+"t": 133.75,
+"dur": 0.375,
+"kind": "mark",
+"sender": "both",
+"msg": 6,
+"ch": "O",
+"sym": "-",
+"midi": 57
+},
+{
+"t": 134.25,
+"dur": 0.375,
+"kind": "mark",
+"sender": "both",
+"msg": 6,
+"ch": "O",
+"sym": "-",
+"midi": 57
+},
+{
+"t": 134.75,
+"dur": 0.375,
+"kind": "mark",
+"sender": "both",
+"msg": 6,
+"ch": "O",
+"sym": "-",
+"midi": 57
+},
+{
+"t": 135.5,
+"dur": 0.375,
+"kind": "mark",
+"sender": "both",
+"msg": 6,
+"ch": "D",
+"sym": "-",
+"midi": 48
+},
+{
+"t": 136.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "both",
+"msg": 6,
+"ch": "D",
+"sym": ".",
+"midi": 48
+},
+{
+"t": 136.25,
+"dur": 0.125,
+"kind": "mark",
+"sender": "both",
+"msg": 6,
+"ch": "D",
+"sym": ".",
+"midi": 48
+},
+{
+"t": 136.75,
+"dur": 0.375,
+"kind": "mark",
+"sender": "both",
+"msg": 6,
+"ch": "N",
+"sym": "-",
+"midi": 57
+},
+{
+"t": 137.25,
+"dur": 0.125,
+"kind": "mark",
+"sender": "both",
+"msg": 6,
+"ch": "N",
+"sym": ".",
+"midi": 57
+},
+{
+"t": 137.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "both",
+"msg": 6,
+"ch": "I",
+"sym": ".",
+"midi": 52
+},
+{
+"t": 138.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "both",
+"msg": 6,
+"ch": "I",
+"sym": ".",
+"midi": 52
+},
+{
+"t": 138.5,
+"dur": 0.375,
+"kind": "mark",
+"sender": "both",
+"msg": 6,
+"ch": "G",
+"sym": "-",
+"midi": 50
+},
+{
+"t": 139.0,
+"dur": 0.375,
+"kind": "mark",
+"sender": "both",
+"msg": 6,
+"ch": "G",
+"sym": "-",
+"midi": 50
+},
+{
+"t": 139.5,
+"dur": 0.125,
+"kind": "mark",
+"sender": "both",
+"msg": 6,
+"ch": "G",
+"sym": ".",
+"midi": 50
+},
+{
+"t": 140.0,
+"dur": 0.125,
+"kind": "mark",
+"sender": "both",
+"msg": 6,
+"ch": "H",
+"sym": ".",
+"midi": 50
+},
+{
+"t": 140.25,
+"dur": 0.125,
+"kind": "mark",
+"sender": "both",
+"msg": 6,
+"ch": "H",
+"sym": ".",
+"midi": 50
+},
+{
+"t": 140.5,
+"dur": 0.125,
+"kind": "mark",
+"sender": "both",
+"msg": 6,
+"ch": "H",
+"sym": ".",
+"midi": 50
+},
+{
+"t": 140.75,
+"dur": 0.125,
+"kind": "mark",
+"sender": "both",
+"msg": 6,
+"ch": "H",
+"sym": ".",
+"midi": 50
+},
+{
+"t": 141.25,
+"dur": 0.375,
+"kind": "mark",
+"sender": "both",
+"msg": 6,
+"ch": "T",
+"sym": "-",
+"midi": 62
+}
+]
+}
