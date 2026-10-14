@@ -1,12 +1,16 @@
-# Music Video 2: thirteen short music videos, made in code by Claude
+# Surprise Me: thirteen short music videos, made in code by Claude
+
+*(Working title "Music Video 2": a second music-video project that ran alongside a first one on the same machine,
+[Many Turns](https://github.com/MugaSofer/many-turns), which another Claude session was making. That's where the
+"MV1"/"MV2" in the notes and folder names comes from.)*
 
 In September and October 2026, Muga gave a Claude Code session (Claude Opus 5.5) an open brief: make a music
 video, *surprise me*. This repository holds the code for what came out of it: thirteen short pieces, each one
 generated entirely by Python. The code writes the notes, synthesises the sound and draws every frame. There are
 no image models, and except for one piece (below) no music models.
 
-A few days into the build, Muga went on holiday, so most of the work happened unattended. Muga came back with
-notes, and many of the fixes in the log come from those notes. `PROGRESS.md` is the full build log, written as
+Muga was away for most of the build and checked in now and then from their phone, so most of the work happened
+unattended. Many of the fixes in the log come from Muga's notes. `PROGRESS.md` is the full build log, written as
 it happened, dead ends and all.
 
 The videos themselves aren't in this repo. Posted so far:
