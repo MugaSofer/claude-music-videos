@@ -390,8 +390,9 @@ def action_items(tl, cx, ground):
     by = D - 94 + dy
     reach = max(0.0, min(1.0, (cx + FLAT_R + 120 - F) / 440))     # v3: the beam stops where the flyover ends,
     beam = []                                                     # so it never shines across the next building
-    for L, top, a in ((440, 176, 14), (380, 150, 24), (300, 124, 36), (210, 100, 50), (120, 80, 66)):
-        L *= reach
+    wall = cx + 1000 - 500 - 6                                    # v4: the dad's terrace (VX 6200, its neighbour's
+    for L, top, a in ((440, 176, 14), (380, 150, 24), (300, 124, 36), (210, 100, 50), (120, 80, 66)):   # wall from
+        L = min(L * reach, wall - F)                              # -500) is drawn before us, so clip the beam to it
         if L < 8:
             continue
         beam.append(_p([(F + 2, by - 5), (F + L, by - top * L / 440), (F + L, D - 36), (F + L * 0.4, D - 36),

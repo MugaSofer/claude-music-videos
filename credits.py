@@ -43,7 +43,7 @@ PIECES = {
               "one tune, passed between four AIs",
               [MADE, "With changes by Grok and ChatGPT; Gemini let it pass"],
               [FOR + ",", "and spotted the bulrushes floating off their stems"], "relay"),
-    "small_hours": ("05/small_hours_v3-1080p.mp4", 24, "Small Hours",
+    "small_hours": ("05/small_hours_v4-1080p.mp4", 24, "Small Hours",
                     "the people who keep a city going through the night",
                     ["Lyrics and city by Claude (Opus 5.5); music: Suno",
                      "Vignettes painted by four Claude subagents (Opus 5.5)"],
