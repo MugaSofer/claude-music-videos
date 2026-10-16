@@ -40,6 +40,7 @@ SKIN = (168, 106, 84)
 SKIN_FAR = (128, 78, 66)
 HAIR = (52, 34, 40)
 APRON = (230, 218, 194)
+TROUSERS = (48, 42, 60)
 CAP = (236, 226, 204)
 CUFF = (156, 162, 196)
 DOUGH = (238, 220, 184)
@@ -404,6 +405,9 @@ def _baker(tl):
     # far arm (behind the body)
     far, _, far_hand = _arm(T(10, 94 + breathe), far_tgt, SHIRT_FAR, SKIN_FAR, s)
     it += far
+    # seat and trousers, down behind the counter (v4: the torso used to stop above the bench, with wall under it)
+    it.append(('poly', [T(-26, -6), T(30, -6), (hip[0] + 28, -138), (hip[0] - 26, -138), (hip[0] - 31, hip[1] + 8)],
+               TROUSERS))
     # torso: back contour, chest, belly
     torso = [(-26, -8), (-27, 38), (-25, 72), (-18, 96), (-6, 108), (8, 108), (22, 94), (27, 66), (30, 36),
              (30, -8)]
@@ -436,7 +440,7 @@ def _baker(tl):
                _mix(SKIN, INK, 0.18)))                                                                # ear
     it.append(('poly', [Hh(x, y) for x, y in [(-27, 44), (-26, 24), (-18, 10), (-13, 14), (-15, 30), (-11, 44)]],
                HAIR))
-    cap = [(-28, 44), (-27, 60), (-20, 72), (-4, 78), (14, 74), (24, 62), (21, 51), (4, 52), (-12, 50)]
+    cap = [(-28, 41), (-27, 60), (-20, 72), (-4, 78), (14, 74), (24, 62), (21, 47), (4, 46), (-12, 45)]   # v4: well under the band
     it.append(('poly', [Hh(x, y) for x, y in cap], CAP))
     it.append(('poly', [Hh(x, y) for x, y in [(-28, 47), (21, 54), (21, 50), (-28, 43)]], _mix(CAP, WOOD, 0.25)))
     # near arm

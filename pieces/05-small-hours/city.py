@@ -200,9 +200,12 @@ def frame(cam_x, zoom, dawn, active, cam_y=H / 2):
     """active: list of (vignette name, local time). cam_y: world y at the screen centre (540 = level)."""
     img = sky(cam_x, dawn)
     # the moon, far away, barely moving
-    d = ImageDraw.Draw(img)
     mx = 1500 - cam_x * 0.05
-    d.ellipse([mx - 50, 140 + 300 * dawn, mx + 50, 240 + 300 * dawn], fill=(240, 236, 214, int(255 * (1 - dawn))))
+    if dawn < 1:                                               # v4: blended on its own overlay; drawn straight
+        moon = Image.new('RGBA', img.size, (0, 0, 0, 0))      # into the sky, its fading alpha cut a hole in it
+        ImageDraw.Draw(moon).ellipse([mx - 50, 140 + 300 * dawn, mx + 50, 240 + 300 * dawn],
+                                     fill=(240, 236, 214, int(255 * (1 - dawn))))
+        img.alpha_composite(moon)
     FAR.render(img, cam_x, zoom, cam_y=cam_y)
     MID.render(img, cam_x, zoom, cam_y=cam_y)
     STREET.render(img, cam_x, zoom, cam_y=cam_y)               # the road first, so vignettes can draw on it

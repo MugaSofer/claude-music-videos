@@ -24,7 +24,7 @@ TOTAL = S['total']
 # ------------------------------------------------------------------ camera keys from the structure
 VX = city.VX
 # how each vignette wants to be framed: (x offset, world y at screen centre, zoom at the end of its push)
-FRAMING = dict(baker=(0, 540, 2.1), bus=(0, 635, 2.0), nurse=(0, 560, 2.2), fox=(0, 730, 2.2),
+FRAMING = dict(baker=(0, 540, 2.1), bus=(0, 635, 2.0), nurse=(0, 535, 2.2), fox=(0, 730, 2.2),
                lorry=(0, 540, 2.1), dad=(0, 540, 2.1), lines=(0, 800, 2.1), tower=(60, 560, 3.0))
 LEVEL = 540
 # v2: vignette start times from the take-B vocal stem (phrase onsets), instead of equal splits.
@@ -144,6 +144,21 @@ def _lorry_window():
     return out
 
 
+KEEPERS = ('baker', 'nurse', 'dad', 'tower')
+
+
+def _keeper_t0():
+    """v4: each indoor keeper runs on one clock for the whole film, set by their first slot. They used to loop
+    on 3 + t % 8 in the background (a visible jump every 8 s, and another on entering or leaving their slot)."""
+    out = {}
+    for s in SECT:
+        if s['kind'] in ('verse', 'bridge'):
+            for v, a0, b0 in slots(s):
+                if v in KEEPERS and v not in out:
+                    out[v] = a0 - LEAD
+    return out
+
+
 def active(t):
     out = []
     for s in SECT:
@@ -152,17 +167,18 @@ def active(t):
                 if v == 'lorry':
                     continue
                 if a0 - LEAD - 2 <= t <= b0 + 3:
-                    out.append((v, t - (a0 - LEAD)))
+                    out.append((v, t - KEEPER_T0[v] if v in KEEPERS else t - (a0 - LEAD)))
     for a0, t0, t1 in LORRY:
         if t0 <= t <= t1:
             out.append(('lorry', t - (a0 - LEAD)))
-    for v in ('baker', 'nurse', 'dad', 'tower'):          # indoor keepers carry on quietly in the background
+    for v in KEEPERS:                                     # indoor keepers carry on quietly in the background
         if all(v != o[0] for o in out):
-            out.append((v, 3.0 + (t % 8.0)))
+            out.append((v, t - KEEPER_T0[v]))
     return out
 
 
 LORRY = _lorry_window()
+KEEPER_T0 = _keeper_t0()
 
 FIN = craft.Finisher(W, H, seed=21, paper=0.05, grain=0.028, vignette=0.32, halation=0.5, bloom=0.14, lift=0.02,
                      warmth=0.05, contrast=0.1)

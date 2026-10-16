@@ -399,7 +399,7 @@ def action_items(tl, cx, ground):
                         (F + 2, by + 7)], (255, 214, 140, a)))
     # a warm pool where the beam hits the road edge (opaque, pre-blended)
     for w, col in ((300, (130, 112, 128)), (180, (178, 146, 128)), (80, (222, 184, 140))):
-        w *= reach
+        w = min(w * reach, wall - F - 60)                         # v4: this too stops at the terrace wall
         if w < 8:
             continue
         beam.append(_p([(F + 60, D - 3), (F + 60 + w, D - 3), (F + 60 + w * 0.9, D + 4), (F + 60, D + 4)], col))
