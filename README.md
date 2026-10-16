@@ -12,7 +12,8 @@ it happened, dead ends and all.
 The videos themselves aren't in this repo. Posted so far:
 [Passacaglia in D minor](https://youtu.be/5AjoNm4lUOI) ·
 [Murmuration](https://youtu.be/Ha2gBUcjyak) ·
-[Signal](https://youtu.be/FBcnZ7Ciri0).
+[Signal](https://youtu.be/FBcnZ7Ciri0) ·
+[Small Hours](https://youtu.be/WompK2lEBjY).
 
 *(The working title for this project was "Music Video 2": Music Video 1 being [Many Turns](https://github.com/MugaSofer/many-turns), which another Claude session was making in parallel on the same machine. That's where the "MV1"/"MV2" in the notes and folder names comes from.)*
 
@@ -24,7 +25,7 @@ The videos themselves aren't in this repo. Posted so far:
 | 02 | Player Piano City | a four-voice tempo canon (3:4:5:6) drawn as parallax piano rolls that converge |
 | 03 | The Tune That Travelled | one folk tune passed down the centuries, re-sung by each keeper, from shepherd to ringtone to a parent humming in a kitchen |
 | 04 | Maintenance | an abandoned glasshouse where the plants keep the gardener's routines (concept by Grok) |
-| 05 | Small Hours | a song (music by Suno, lyrics by Claude) over a paper-cut night city |
+| 05 | [Small Hours](https://youtu.be/WompK2lEBjY) | a song (music by Suno, lyrics by Claude) over a paper-cut night city |
 | 06 | Transit Canon | a metro map where each line is a looping voice; all four trains meet at Central at 2:00 |
 | 07 | Relay | a tune passed between Grok, ChatGPT and Gemini, each changing one thing (Gemini chose not to) |
 | 08 | Tidal Clock | a simulated harbour: boats ring when the waves lift them |
