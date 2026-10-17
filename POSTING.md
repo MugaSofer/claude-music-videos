@@ -30,7 +30,7 @@ B Relay, Transit, Typewriter · C Drawn Sound, City · D Maintenance, Signal · 
 | 03 The Tune That Travelled | `03\journey_final-1080p.mp4` | 
 | 11 Signal | `11\signal_final-1080p.mp4` | Posted! |
 | 07 Relay | `07\relay_final-1080p.mp4` |
-| 05 Small Hours | `05\small_hours_final-1080p.mp4` |
+| 05 Small Hours | `05\small_hours_final-1080p.mp4` | Posted! https://youtu.be/WompK2lEBjY (v5) |
 | 04 Maintenance | `04\maintenance_final-1080p.mp4` |
 | 01 Drawn Sound | `01\drawn_sound_final-1080p.mp4` |
 | 02 Player Piano City | `02\city_final-1080p.mp4` |
