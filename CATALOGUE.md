@@ -25,5 +25,5 @@ Process notes, decisions and lessons are in `PROGRESS.md`; each piece has a `des
 Piano samples: Salamander Grand Piano V3 by Alexander Holm, CC-BY 3.0 (used only in 07 v2 and 11 v2;
 later versions went back to my synth piano, which Muga prefers).
 Hum (03 v5): "Humming C D A for alexggqs" by drotzruhn, Freesound 439504, CC0.
-Credits: 4 painter subagents (05 vignettes), a painter subagent (03 figures), Grok (04 idea, 07 hand),
-ChatGPT (07 hand), MV1's analysis venv (05 beat tracking).
+Credits: 4 painter subagents (05 vignettes), a painter subagent (03 figures), Grok (04 idea; one change to 07's tune),
+ChatGPT (one change to 07's tune; the drawn hands in 07 are mine, not theirs), MV1's analysis venv (05 beat tracking).

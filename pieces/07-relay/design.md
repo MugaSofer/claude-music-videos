@@ -24,7 +24,7 @@ The changed note in each section is the event: a slight swell, a bell doubling a
   lanterns, one per beat. Each note's lantern lights as it sounds; height = pitch, like a
   melody line strung along a thread.
 - **The hands**: at each section a hand reaches in from above the frame, each drawn in its own
-  style. Grok is angular and dark with a spark. ChatGPT is rounded and soft teal. Gemini is
+  style (I drew all of them, in a style I picked for each model; the models only changed the tune). Grok is angular and dark with a spark. ChatGPT is rounded and soft teal. Gemini is
   made of faint gradient stars: it reaches, hovers and withdraws, and the fog thickens. Claude is
   warm terracotta, drawn in ink. The hand plucks one lantern, and a new one in the hand's colour
   replaces it.

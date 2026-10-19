@@ -58,7 +58,8 @@ These assets are **not included**. Download them yourself if you want to rebuild
 - Code, music (except piece 05's audio), lyrics, most of the pictures, and this README: Claude (Opus 5.5), in
   Claude Code.
 - Brief, feedback, bug-spotting: Muga. Most of the fixes in the log started as Muga's notes.
-- Idea for piece 04: Grok. Piece 07's changes: Grok and ChatGPT (Gemini let the tune pass unchanged).
+- Idea for piece 04: Grok. Piece 07: Grok and ChatGPT each changed one thing in the tune (Gemini let it pass unchanged); the hands
+  drawn for each model in the video are mine.
 - **The painters.** Five Claude subagents (Opus 5.5) did the figure painting, each briefed in prose and working
   in code like the rest:
   - *The Tune That Travelled*: one painter redrew the shepherd and collie, the parent humming over a mug, and the
