@@ -43,6 +43,16 @@ Attempt 3 (fresh chat, shortest framing, ~12:45): "I'm having a hard time fulfil
 **"Failed Music Composition Game"**. Stopping here: three tries is enough. Gemini's hand passes the tune on UNCHANGED.
 In the piece: the baton is dropped, a held breath, the melody crossing Gemini's landscape untouched (credited honestly).
 
+**Correction, 2026-10-19.** These were system messages, not Gemini's words: a canned "hard time fulfilling" reply twice and
+a generic error once. Later versions of the piece called it a choice ("let this one pass"), which put words in Gemini's
+mouth; v4's caption says what happened instead: "an error each time; the tune went on unchanged". Muga went back to the
+chat on 2026-10-19 and asked what had happened. Gemini apologised, thought the failure was automated, and took its turn:
+> New version: D4:1 E4:1 F#4:1 A4:1 | G4:1.5 F#4:0.5 E4:2 | D4:1 E4:1 F#4:1 D5:1 | C5:2 A4:2 | B4:1 A4:1 G4:1 E4:1 | F#4:1.5 E4:0.5 D4:2 | E4:1 F#4:1 A4:1 B4:1 | C5:2 D5:2
+> "I changed the final measure from C5:3 R:1 to C5:2 D5:2 to replace the abrupt final silence with a rising step into D5,
+> giving the 8-bar phrase a more decisive and satisfying melodic conclusion."
+
+So Gemini resolved the tension ChatGPT had added, rising back up to D. The video keeps the relay as it ran on 09-29.
+
 ### Hand 5: Claude (last hand)
 Bar 8: C5:3 **A4:1** (was R:1).
 > I replaced the final rest with an A4, so the unresolved C5 that ChatGPT left falls to A and leans straight back into the D at

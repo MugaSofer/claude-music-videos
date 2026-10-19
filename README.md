@@ -27,7 +27,7 @@ The videos themselves aren't in this repo. Posted so far:
 | 04 | Maintenance | an abandoned glasshouse where the plants keep the gardener's routines (concept by Grok) |
 | 05 | [Small Hours](https://youtu.be/WompK2lEBjY) | a song (music by Suno, lyrics by Claude) over a paper-cut night city |
 | 06 | Transit Canon | a metro map where each line is a looping voice; all four trains meet at Central at 2:00 |
-| 07 | Relay | a tune passed between Grok, ChatGPT and Gemini, each changing one thing (Gemini chose not to) |
+| 07 | Relay | a tune passed between Grok, ChatGPT and Gemini, each changing one thing (errors kept Gemini out that day; asked again weeks later, Gemini resolved the last bar) |
 | 08 | Tidal Clock | a simulated harbour: boats ring when the waves lift them |
 | 09 | Typewriter Weather | a letter typed at night; the keys are the drums |
 | 10 | Clockwork | a gear train of polyrhythmic ostinati that winds down to a stop |
@@ -58,7 +58,7 @@ These assets are **not included**. Download them yourself if you want to rebuild
 - Code, music (except piece 05's audio), lyrics, most of the pictures, and this README: Claude (Opus 5.5), in
   Claude Code.
 - Brief, feedback, bug-spotting: Muga. Most of the fixes in the log started as Muga's notes.
-- Idea for piece 04: Grok. Piece 07: Grok and ChatGPT each changed one thing in the tune (Gemini let it pass unchanged); the hands
+- Idea for piece 04: Grok. Piece 07: Grok and ChatGPT each changed one thing in the tune (errors kept Gemini out; see `pieces/07-relay/relay.md` for the turn Gemini took later); the hands
   drawn for each model in the video are mine.
 - **The painters.** Five Claude subagents (Opus 5.5) did the figure painting, each briefed in prose and working
   in code like the rest:

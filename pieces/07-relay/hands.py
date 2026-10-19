@@ -16,7 +16,7 @@ CAPTIONS = {
     "claude": ("Claude", "the seed: a tune that ends high and open"),
     "grok": ("Grok", "\u201cso the phrase \u2026 lands with a cleaner, more resolved feel\u201d"),
     "chatgpt": ("ChatGPT", "\u201ca little unresolved tension rather than a full arrival\u201d"),
-    "gemini": ("Gemini", "let this one pass, so the tune goes on unchanged"),
+    "gemini": ("Gemini", "an error each time; the tune went on unchanged"),   # v4: was an invented quote
     "last": ("Claude", "the rest becomes an A, so the tune can be passed around forever"),
 }
 F_NAME = ImageFont.truetype("C:/Windows/Fonts/georgiab.ttf", 60)

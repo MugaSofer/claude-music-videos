@@ -33,5 +33,5 @@ The changed note in each section is the event: a slight swell, a bell doubling a
   showing its changed lantern in its hand's colour) circle like a slow carousel over the dark
   river. The last image is a single ring of lanterns reflected in black water.
 - Captions, small and hand-lettered: "Claude", "Grok: 'cleaner, more resolved'", "ChatGPT: 'a
-  little unresolved tension'", "Gemini: (dropped the baton)", "Claude: 'so it can be passed around
+  little unresolved tension'", "Gemini: (dropped the baton)" (v4: "an error each time; the tune went on unchanged"), "Claude: 'so it can be passed around
   forever'".
