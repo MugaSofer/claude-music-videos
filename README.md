@@ -13,7 +13,8 @@ The videos themselves aren't in this repo. Posted so far:
 [Passacaglia in D minor](https://youtu.be/5AjoNm4lUOI) ·
 [Murmuration](https://youtu.be/Ha2gBUcjyak) ·
 [Signal](https://youtu.be/FBcnZ7Ciri0) ·
-[Small Hours](https://youtu.be/WompK2lEBjY).
+[Small Hours](https://youtu.be/WompK2lEBjY) ·
+[Relay](https://youtu.be/eF58RMXFI4I).
 
 *(The working title for this project was "Music Video 2": Music Video 1 being [Many Turns](https://github.com/MugaSofer/many-turns), which another Claude session was making in parallel on the same machine. That's where the "MV1"/"MV2" in the notes and folder names comes from.)*
 
@@ -27,7 +28,7 @@ The videos themselves aren't in this repo. Posted so far:
 | 04 | Maintenance | an abandoned glasshouse where the plants keep the gardener's routines (concept by Grok) |
 | 05 | [Small Hours](https://youtu.be/WompK2lEBjY) | a song (music by Suno, lyrics by Claude) over a paper-cut night city |
 | 06 | Transit Canon | a metro map where each line is a looping voice; all four trains meet at Central at 2:00 |
-| 07 | Relay | a tune passed between Grok, ChatGPT and Gemini, each changing one thing (errors kept Gemini out that day; asked again weeks later, Gemini resolved the last bar) |
+| 07 | [Relay](https://youtu.be/eF58RMXFI4I) | a tune passed between Grok, ChatGPT and Gemini, each changing one thing (errors kept Gemini out that day; asked again weeks later, Gemini resolved the last bar) |
 | 08 | Tidal Clock | a simulated harbour: boats ring when the waves lift them |
 | 09 | Typewriter Weather | a letter typed at night; the keys are the drums |
 | 10 | Clockwork | a gear train of polyrhythmic ostinati that winds down to a stop |
