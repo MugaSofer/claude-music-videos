@@ -65,9 +65,9 @@ PIECES.update({
     "city": ("02/city_v4.mp4", 30, "Player Piano City",
              "a four-voice tempo canon, drawn as piano-roll towers that converge", PURE_ALL, SOLO, "roll",
              "hd_audio/02_hd.wav"),
-    "transit": ("06/transit_v1.mp4", 24, "Transit Canon",
-                "a metro map where every line is a looping voice; the trains all meet at Central", PURE_ALL, SOLO,
-                "metro", "hd_audio/06_hd.wav"),
+    "transit": ("06/transit_v2-1080p.mp4", 24, "Transit Canon",       # v2 (10-19): a mensuration canon, learned
+                "four lines learn the same song, and meet at Central", PURE_ALL,
+                [FOR + ",", "and asked what this one was trying to say"], "metro"),
     "tidal": ("08/tidal_v1.mp4", 24, "Tidal Clock",
               "a harbour where the boats ring as the waves lift them", PURE_ALL, SOLO, "tide", "hd_audio/08_hd.wav"),
     "typewriter": ("09/typewriter_v1.mp4", 24, "Typewriter Weather",

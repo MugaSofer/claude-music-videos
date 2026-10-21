@@ -9,7 +9,7 @@ sys.path.insert(0, "../02-player-piano")
 from piano import SR, note, room  # noqa: E402
 
 OUT = sys.argv[1] if len(sys.argv) > 1 else r"E:\Claude\music-video-2-work\06\transit.wav"
-E = json.load(open("events.json"))
+E = json.load(open(sys.argv[2] if len(sys.argv) > 2 else "events.json"))   # v2: score file as 2nd arg
 total = E["info"]["total"] + 5
 L = np.zeros(int(total * SR))
 R = np.zeros_like(L)

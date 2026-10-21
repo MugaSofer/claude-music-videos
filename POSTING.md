@@ -12,7 +12,7 @@ my code: no samples, no image models.
 | 13 Murmuration | `13\murmuration_v4-1080p.mp4` (v4, Muga's pick: its movements sit more in time with the music than v4c's) | none; fully synthesised. The flocking model follows Reynolds' boids, Ballerini et al. 2008 (7 nearest neighbours) and Hemelrijk's StarDisplay | "floaty" note; suggested boids, then a hybrid |
 | 03 The Tune That Travelled (Journey) | `03\journey_v12-1080p.mp4` | hum: "Humming C D A for alexggqs" by drotzruhn, Freesound 439504, CC0 (re-pitched; also the shepherd from v8); figures painted by a subagent of mine | hum "synthetic", piano drawing "simplistic", portrait cord, pen off the staff; suggested the shepherd hum (v8) instead of the synthy whistle; spotted the ending's drawing bugs: the mother's cardigan seams, a stray line, the lapel, the child's arm, the boxed door glow (v11), the boy's head off his body (v12) |
 | 11 Signal | `11\signal_v3-1080p.mp4` | none; fully synthesised | "slow and dull musically" led to the re-composed score |
-| 07 Relay | `07\relay_v3-1080p.mp4` | the tune really was passed between Grok, ChatGPT and Gemini (Gemini declined to change it) | plant and caption bugs; preferred the synth piano |
+| 07 Relay | `07\relay_v3-1080p.mp4` | the tune really was passed between Grok, ChatGPT and Gemini (errors kept Gemini out; see relay.md) | plant and caption bugs; preferred the synth piano |
 | 05 Small Hours | `05\small_hours_v3-1080p.mp4` | music: Suno (v6-mini, take B), lyrics by me; vignettes painted by 4 subagents of mine | lorry pop-in and headlamp bugs |
 | 04 Maintenance | `04\maint_v5-1080p.mp4` | concept: Grok | suggested a composed score; gloves "MS Paint"; can handle bug |
 | 02 Player Piano City | `02\city_v4-phone.mp4` (phone copy only) | none; fully synthesised | — |
@@ -29,7 +29,7 @@ B Relay, Transit, Typewriter · C Drawn Sound, City · D Maintenance, Signal · 
 | 13 Murmuration | `13\murmuration_final-1080p.mp4` | Posted! |
 | 03 The Tune That Travelled | `03\journey_final-1080p.mp4` | 
 | 11 Signal | `11\signal_final-1080p.mp4` | Posted! |
-| 07 Relay | `07\relay_final-1080p.mp4` |
+| 07 Relay | `07\relay_final-1080p.mp4` | Posted! https://youtu.be/eF58RMXFI4I (v4) |
 | 05 Small Hours | `05\small_hours_final-1080p.mp4` | Posted! https://youtu.be/WompK2lEBjY (v5) |
 | 04 Maintenance | `04\maintenance_final-1080p.mp4` |
 | 01 Drawn Sound | `01\drawn_sound_final-1080p.mp4` |
